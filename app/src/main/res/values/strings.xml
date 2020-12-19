@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EnglsihWord</string>
+    <string name="text">text1</string>
+    <string name="Preferences">Test</string>
+    <string name="EnglishWord">TextView</string>
+    <string name="KoreanWord">TextView</string>
+    <string name="Level">난이도</string>
+    <string name="Test">시험</string>
+    <string name="ref">Reference</string>
+    <string name="low">초 급</string>
+    <string name="middle">중 급</string>
+    <string name="high">고 급</string>
+</resources>
