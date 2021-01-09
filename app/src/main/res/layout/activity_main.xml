@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -30,8 +31,8 @@
             android:layout_height="200dp"
             android:layout_marginBottom="30dp"
             android:gravity="center|center"
-            android:textSize="90sp"
-            android:text="@string/EnglishWord" />
+            android:text="@string/EnglishWord"
+            android:textSize="45sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -55,7 +56,8 @@
             android:background="@drawable/btn_style_main"
             android:textColor="@android:color/black"
             android:text="@string/Level"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            tools:ignore="ButtonStyle,NestedWeights" />
 
         <Button
             android:id="@+id/button2"
@@ -65,7 +67,8 @@
             android:background="@drawable/btn_style_main"
             android:textColor="@android:color/black"
             android:text="@string/Test"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            tools:ignore="ButtonStyle" />
     </LinearLayout>
 
 </LinearLayout>
