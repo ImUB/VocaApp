@@ -47,8 +47,8 @@ legal:합법적인
 illegal:불법적인
 recently:최근에
 nowadays:최근에
-thesedays:최근에
-oflate:최근에
+these days:최근에
+of late:최근에
 lately:최근에
 universally:보편적으로/일반적으로
 universal:우주의/일반적인
@@ -60,18 +60,18 @@ enlighten:계몽시키다개화시키다
 vote:투표/투표하다
 nature:자연/본능/본성
 natural:자연의/본능적인/당연한
-bynature:본래/출생부터
+by nature:본래/출생부터
 superior:～보다우수한
 superiority:우수/우월감
 inferior:열등한
 inferiority:열등/열등의식
 especially:특히
-onthecontrary:반대로
-ontheotherhand:한편
+on the contrary:반대로
+on the other hand:한편
 statue:동상
-thestatueofliberty:자유의여신상
+the statue of liberty:자유의여신상
 status:지위/신분
-socialstatus:사회적지위
+social status:사회적지위
 innately:본래/선천적으로
 barbarian:야만인
 slavery:노예
@@ -81,8 +81,8 @@ just:정당한/공평한
 justice:정의
 master:주인
 familiarize:알다/친숙하게하다
-befamiliarwith:～과친숙하다
-moslem:회교도의
+be familiar with:～과친숙하다
+moslem:이슬람교
 holiday:휴일/휴가
 vacation:휴일/휴가
 vocation:직업
@@ -93,8 +93,8 @@ practice:관행/습관/연습하다
 leave:떠나다/남겨두다
 share:나누다/공유하다
 appointment:약속
-makeanappointment:(시간)약속하다
-makeapromise:약속하다
+make an appointment:(시간)약속하다
+make a promise:약속하다
 appoint:지명하다/임명하다
 appointed:정해진/약속된
 pork:돼지고기
@@ -107,8 +107,8 @@ religious:종교적인
 region:지역
 regional:지역적인
 prohibition:금기사항/금지
-hinder A from B(～ing):A가B를방해하다
-keep A from B(~ing):A가B를방해하다
+hinder A from B(～ing):A가 B를방해하다
+keep A from B(~ing):A가 B를방해하다
 against:대항하여/적대하여
 alcoholic:술의/알코올의
 beverage:음료
@@ -158,9 +158,10 @@ how to swim:수영하는방법
 where to go:어디에갈지
 what to see:무엇을볼지
 which to choose:무엇을고를지
-dealwith:～을다루다
+deal with:～을다루다
 treat:다루다
-dealin:장사하다
+dealin:거래
+dealing:취급
 do business:장사하다
 drown:물에빠지다/익사하다
 a drowning man will catch at a straw:물에빠진사람은지푸라기라도잡는다
@@ -216,30 +217,25 @@ weight:무게
 overweight:체중과다
 underweight:체중미달
 weigh:무게가나가다
-cope:대처하다
-copewith:～과대처하다
+cope with:대처하다
 aggressive:공격적인/침략적인
 aggressor:공격자
 aggression:공격
-makefriendswith:친구가되다
-shakehandswith:악수하다
-changeseatswith:자리를바꾸다
+make friends with:친구가되다
+shake hands with:악수하다
+change seats with:자리를바꾸다
 science:과학
 scientific:과학의
 scientifically:과학적으로
 several:여러가지의
 various:다양한
 development:발전
-very:매우/아주(부사)
-:바로그(형용사)
-ex:)Ilikeitverymuch.(매우)
-HeistheverymanthatIamlookingfor:.
-:그는내가찾는바로그사람이다.
-stimulate:자극시키다
+very:매우/아주
+stimulate:자극하다
 stimulation:자극
 advancement:발전/진보
 advance:나아가다/발전하다
-inadvance:미리/이전에
+in advance:미리/이전에
 civilization:문명
 civilize:문명화하다
 civilized:문명화된
@@ -252,7 +248,7 @@ moreover:더구나/게다가
 mission:사명
 raise:올리다/양육하다/모금하다
 standard:표준
-standardofliving:생활수준
+standard of living:생활수준
 annihilate:전멸시키다
 obvious:명백한
 obviously:명백하게
@@ -260,17 +256,17 @@ instead:～대신에
 mean:의미하다/작정이다
 means:재산/수단
 dignity:존엄/품위
-withdignity:존엄있게/품위있게
+with dignity:존엄있게/품위있게
 nobility:귀족/숭고/고결
 noble:고상한/귀족의
 nobleman:귀족
 responsibility:책임/의무/직책
 responsible:책임이있는
-beresponsiblefor:～에대한책임이있다
+be responsible for:～에대한책임이있다
 safety:안전/무사
 safe:안전한/무사히
 official:공식적인
-lengthy:(=long)긴
+lengthy(=long):긴
 digest:소화하다/요약하다
 digestion:소화/요약
 fry:기름으로튀기다/프라이하다
@@ -284,9 +280,9 @@ instruct:가르치다/지시하다
 instruction:교육/지시
 instructive:교훈적인
 chew:～을씹다/곰곰히생각하다
-chewinggum:씹는껌
-chewout:～을호되게꾸짖다
-chewup:～을엉망으로부수다
+chewing gum:씹는껌
+chew out:～을 호되게꾸짖다
+chew up:～을 엉망으로부수다
 jaw:턱
 facial:얼굴의
 face:얼굴/직면하다
@@ -4194,6 +4190,6 @@ criticism:비평
 critical:비판적인
 lobby:로비/홀
 rumpled:구겨진
-asusual:평시처럼
+as usual:평시처럼
 annoyance:괴롭히기/성가심
 annoy:성가시게하다
