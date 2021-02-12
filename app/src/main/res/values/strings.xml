@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EnglsihWord</string>
+    <string name="app_name">짬내서 영단어</string>
     <string name="text">text1</string>
     <string name="Preferences">Test</string>
     <string name="EnglishWord">TextView</string>
