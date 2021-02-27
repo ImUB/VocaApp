@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DifficultlyActivity"/>
-        <activity android:name=".FileTable" />
+        <activity android:name=".FileSplit"/>
+        <activity android:name=".FileTable"/>
     </application>
 </manifest>

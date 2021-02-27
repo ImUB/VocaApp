@@ -726,11 +726,11 @@ philosophy:철학/근본원리
 anti-intellectual:지식을반대하는
 intellectual:지능적인/총명한
 intellect:지성/지력/지능
-anti:-against:(반대하는)反
-antichrist:反그리스도
-antiwar:반전
+anti-against::(반대하는)反
+anti christ:反그리스도
+anti war:반전
 anti smoking:흡연에반대하는
-antisocial:反사회적인
+anti social:反사회적인
 statement:진술/말
 textbook:교재
 publisher:출판업자/출판사
@@ -1070,7 +1070,7 @@ compete:경쟁하다
 endure:지탱하다(sustain)
 enduring:인내심이강한
 endurance:참을성
-teardown:부수다/무너뜨리다
+tear down:부수다/무너뜨리다
 tear:찢다/(복수로)눈물
 optimism:낙관/낙천주의
 pessimism:비관/비관주의
@@ -1235,13 +1235,11 @@ breakdown:무너지다
 deter:단념시키다/막다
 commuter:통근자
 toll:통행료
-wearandtear:손상/소모
-wear:-wore-worn입다/닳아없어지게하다
-tear:-tore-torn찢다/분리하다
+wearand tear:손상/소모
 lane:차선
 during:+기간～하는동안
 for:+숫자～하는동안에
-hassle:-free혼란(소란)없는
+hassle-free:혼란(소란)없는
 boredom:지루함(tedium)/권태
 bore:지겹게하다
 headstart:유리한시작
@@ -1925,7 +1923,7 @@ object:물건/물체/목표
 objective:객관적인
 opportunity:기회
 adult:성인/어른
-grown:-up성인
+grown-up:성인
 infant:유아
 naturally:자연히/당연히
 natural:자연의/본성의/당연한
@@ -2056,7 +2054,7 @@ equal:같은
 equality:동등함/평등
 satisfaction:만족
 satisfy:만족시키다
-besatisfiedwith:～에만족하다
+be satisfied with:～에만족하다
 physical:육체의
 mental:정신적인
 material:육체적인
@@ -2068,7 +2066,7 @@ organism:(신체의)기관
 internal:내부의
 external:외부의
 condition:조건/상태
-onconditionthat:～라는조건으로
+on condition that:～라는조건으로
 favorable:유리한/호의를보이는
 favorite:가장좋아하는
 self:-regulative자기조절하는
@@ -3437,14 +3435,14 @@ significant:중요한/의미있는
 signify:의미하다
 dependent:의지하고있는
 dependence:종속/의존
-dependon:～에의존하다
+depend on:～에의존하다
 independent:독립적인
 independence:독립
 amount:양/총량
-theamountof:～의양
-thenumberof:～의수
-anumberof:많은
-fossilfuel:화석연료
+the amount of:～의양
+the number of:～의수
+a number of:많은
+fossil fuel:화석연료
 major:다수의/주요한
 majority:대다수
 minor:소수의
@@ -4127,7 +4125,7 @@ witness:목격자/증인/증거
 accident:우연히일어난일
 case:재판
 distress:곤경/고뇌
-passer:-by통행인
+passer-by:통행인
 passby:옆으로지나가다
 fix:수리하다/고정시키다
 pasture:목장

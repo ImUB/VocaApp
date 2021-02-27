@@ -5,7 +5,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.im_yubi.englsihword"
-        minSdkVersion 15
+        minSdkVersion 19
         targetSdkVersion 30
         versionCode 3
         versionName "1.1"
