@@ -5,6 +5,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
@@ -23,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
 
     public static int word = 0;
     public static ArrayList<Integer> WordList = new ArrayList<>();
-    public static String[][] EnglishWord = new String[5000][3];
+    public static String[][] EnglishWord = new String[5000][2];
     public static int preword = 0;
     private boolean test_btn = true;
 
@@ -31,6 +32,12 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        DBHelper mDBHelper = new DBHelper(this);
+        mDBHelper.open();
+        mDBHelper.create();
+
+
 
         DrawerLayout drawer = findViewById(R.id.drawer);
         drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
@@ -67,28 +74,11 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
                 }
             }
         }
-    };
-
-//    @Override
-//    public boolean dispatchTouchEvent(MotionEvent event) {
-//        int action = event.getAction();
-//        DisplayMetrics metrics = getResources().getDisplayMetrics();
-//        float width = metrics.widthPixels;
-//        float x = event.getX();
-//
-//        if(action == MotionEvent.ACTION_DOWN) {
-//            if (width / 2 < x) {
-//                nextword();
-//            } else {
-//                preword();
-//            }
-//        }
-//        return super.dispatchTouchEvent(event);
-//    }
+    }; // 버튼 클릭 이벤트 구현
 
     @Override
     public boolean onTouch(View view, MotionEvent ev) {
-        boolean ret;
+        boolean ret = false;
 
         if(view.getId() == R.id.content){
             DisplayMetrics metrics = getResources().getDisplayMetrics();
@@ -106,9 +96,6 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
             }
             ret = true;
         }
-        else {
-            ret = false;
-        }
         return ret;
     }
 
@@ -122,8 +109,11 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
                 if (string != null) {
                     String[] tmp;
                     tmp = string.split(":");
-                    System.arraycopy(tmp, 0, EnglishWord[i], 0, 2);
-                    EnglishWord[i][2] = String.valueOf(0);
+                    if ( tmp.length != 1){
+                        System.arraycopy(tmp, 0, EnglishWord[i], 0, 2);
+                    } else {
+                        Log.v("read", "에러 :" + i + "번째입니다.");
+                    }
                 } else {
                     break;
                 }
@@ -146,7 +136,6 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         TextView tv2 = findViewById(R.id.textView2);
         tv.setText(EnglishWord[word][0]);
         tv2.setText(EnglishWord[word][1]);
-        EnglishWord[word][2] = String.valueOf(1);
         WordList.add(0, word);
     }
 
@@ -162,10 +151,5 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         } else
             myToast.show();
         preword++;
-    }
-
-    @Override
-    public void onPointerCaptureChanged(boolean hasCapture) {
-
     }
 }
