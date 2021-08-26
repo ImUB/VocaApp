@@ -20,11 +20,13 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class MainActivity extends AppCompatActivity implements View.OnTouchListener {
+public class
+
+MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
     public static int word = 0;
     public static ArrayList<Integer> WordList = new ArrayList<>();
-    public static String[][] EnglishWord = new String[5000][2];
+    public static String[][] EnglishWord = new String[5000][3];
     public static int preword = 0;
     private boolean test_btn = true;
 
@@ -33,45 +35,52 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        DBHelper mDBHelper = new DBHelper(this);
-        mDBHelper.open();
-        mDBHelper.create();
 
-
-
+        final View v_progress = findViewById(R.id.progress);
+        v_progress.setVisibility(View.GONE);
         DrawerLayout drawer = findViewById(R.id.drawer);
         drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
         findViewById(R.id.button).setOnClickListener(myClick);
         findViewById(R.id.button2).setOnClickListener(myClick);
         findViewById(R.id.button4).setOnClickListener(myClick);
         findViewById(R.id.content).setOnTouchListener( this );
+
+        Button b_progress = findViewById(R.id.b_progress);
+
+        b_progress.setOnClickListener(v -> {
+            if (v.getId() == R.id.b_progress) {
+                if(v_progress.getVisibility() == View.GONE)
+                    v_progress.setVisibility(View.VISIBLE);
+                else
+                    v_progress.setVisibility(View.GONE);
+            }
+        });
+
         readtxt();
         nextword();
     }
 
 
-    Button.OnClickListener myClick = new Button.OnClickListener() {
-        @Override
-        public void onClick(View v) {
-            DrawerLayout drawer = findViewById(R.id.drawer);
+    Button.OnClickListener myClick = v -> {
+        DrawerLayout drawer = findViewById(R.id.drawer);
 
-            if( v.getId() == R.id.button)
-                startActivity(new Intent(MainActivity.this, DifficultlyActivity.class));
-            if( v.getId() == R.id.button2){
-                if( test_btn) {
-                    findViewById(R.id.textView2).setVisibility(View.INVISIBLE);
-                    test_btn = false;
-                } else {
-                    findViewById(R.id.textView2).setVisibility(View.VISIBLE);
-                    test_btn = true;
-                }
+        if( v.getId() == R.id.button)
+            startActivity(new Intent(MainActivity.this, DifficultlyActivity.class));
+        if( v.getId() == R.id.button2){
+            if( test_btn) {
+                findViewById(R.id.textView2).setVisibility(View.INVISIBLE);
+                test_btn = false;
+            } else {
+                findViewById(R.id.textView2).setVisibility(View.VISIBLE);
+                test_btn = true;
             }
-            if (v.getId() == R.id.button4) {
-                if(!drawer.isDrawerOpen(Gravity.START)) {
-                    drawer.openDrawer(Gravity.START);
-                } else {
-                    drawer.closeDrawer(Gravity.START);
-                }
+        }
+        if (v.getId() == R.id.button4) {
+            if(!drawer.isDrawerOpen(Gravity.START)) {
+                drawer.openDrawer(Gravity.START);
+            } else {
+                drawer.closeDrawer(Gravity.START);
+
             }
         }
     }; // 버튼 클릭 이벤트 구현
@@ -109,7 +118,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
                 if (string != null) {
                     String[] tmp;
                     tmp = string.split(":");
-                    if ( tmp.length != 1){
+                    if ( tmp.length != 1) {
                         System.arraycopy(tmp, 0, EnglishWord[i], 0, 2);
                     } else {
                         Log.v("read", "에러 :" + i + "번째입니다.");
@@ -126,7 +135,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
 
     public int randomword() {
         Random random = new Random();
-        return random.nextInt(4197);
+        return random.nextInt(4067);
     }
 
     public void nextword() {
@@ -136,6 +145,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         TextView tv2 = findViewById(R.id.textView2);
         tv.setText(EnglishWord[word][0]);
         tv2.setText(EnglishWord[word][1]);
+        EnglishWord[word][2] = String.valueOf(1);
         WordList.add(0, word);
     }
 

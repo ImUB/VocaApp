@@ -67,6 +67,7 @@ inferior:열등한
 inferiority:열등/열등의식
 especially:특히
 on the contrary:반대로
+on the other hand:한편
 statue:동상
 the statue of liberty:자유의여신상
 status:지위/신분
@@ -81,7 +82,7 @@ justice:정의
 master:주인
 familiarize:알다/친숙하게하다
 be familiar with:～과친숙하다
-moslem:이슬람교
+muslim:이슬람교
 holiday:휴일/휴가
 vacation:휴일/휴가
 vocation:직업
@@ -106,10 +107,11 @@ religious:종교적인
 region:지역
 regional:지역적인
 prohibition:금기사항/금지
-hinder A from B(～ing):A가 B를방해하다
-keep A from B(~ing):A가 B를방해하다
+hinder A from B(～ing):A가 B 를방해하다
+keep A from B(~ing):A가 B 를방해하다
 against:대항하여/적대하여
 alcoholic:술의/알코올의
+beverage:음료
 wait for:기다리다
 wait on:시중들다
 proper:적당한/적절한
@@ -158,7 +160,7 @@ what to see:무엇을볼지
 which to choose:무엇을고를지
 deal with:～을다루다
 treat:다루다
-deal in:거래
+dealin:거래
 dealing:취급
 do business:장사하다
 drown:물에빠지다/익사하다
@@ -181,7 +183,7 @@ awful:무서운/무시무시한
 wax:왁스
 weed:잡초
 bush:잡초/잡풀
-bottleful:병째로
+bottle ful:병째로
 even:심지어/～조차도
 baby sitting:아기보기
 infantile mortality:유아사망률
@@ -755,7 +757,7 @@ convey:수송하다/전달하다
 conveyance:수송/전달
 information:정보
 inform:알려주다
-worse:더 나쁜, 더 열등
+worse:(bad,ill의비교급)
 what is worse:설상가상으로
 reluctant:꺼리는/하기싫어하는
 incentive:의욕/열의
@@ -989,6 +991,7 @@ tear:찢다/분리하다
 shed tears:눈물을흘리다
 context:情況(정황)/상황/문맥
 contextual:문맥상의
+mass media:대중전달매체
 mass communication:대중매체
 massive:대중의/덩어리의
 process:과정/절차
@@ -1002,7 +1005,7 @@ take after:닮다
 resemblance:유사
 refrigerator:냉장고
 division:분배/분할/나눗셈
-division of labor:분업화
+divisionoflabor:분업화
 divide:나누다
 labor:노동/일
 investment:투자/지출
@@ -1018,14 +1021,14 @@ marketplace:시장
 clear:맑은/깨끗한/순수한
 clearance:개간/개척
 forest:숲/산림/산림
-rain forest:열대우림
+rainforest:열대우림
 agriculture:농업
 support:지지하다/부양하다
 huge:거대한/막대한
 nutrient:영양분/자양분
 surprising:놀라운/의외의
 surprise:놀람/경악/뜻밖의일
-be surprised at:～에놀라다
+besurprisedat:～에놀라다
 tropical:열대의
 productivity:생산성
 production:생산
@@ -1035,20 +1038,22 @@ affect:영향을미치다/～인체하다
 affected:영향받은
 affection:영향/감동/애정
 affectation:～인체하기
-grandchild:증손자
+great:-grandchild증손자
 strive:싸우다/겨루다/노력하다
 against:～에대항하여
-I am against you:나는당신에반대합니다.
+Iamagainstyou:.
+:나는당신에반대합니다.
 defend:방어하다/옹호하다
 defense:방어
 defensive:방어적인/소극적인
-offend:공격하다,감정을상하게하다
+offend:공격하다
+:/감정을상하게하다
 offense:공격
 offensive:공격적인/감정을상하는
 toughen:강하게만들다
 tough:강한/질긴
 confidence:확신
-with confidence:자신있게/확신있게
+withconfidence:자신있게/확신있게
 justification:정당화
 justify:정당화시키다
 justice:정의
@@ -1074,16 +1079,17 @@ pessimist:비관주의자
 cost:비용/비용이들다
 overall:전반적으로
 cheap:값싼
-anything but:～결코～하지않는
-nothing but only:(단지)
+anythingbut:～결코～하지않는
+nothingbutonly:(단지)
 seller:판매자
 bill:청구서/지폐/비용/법안
-shoot up:급속히성장하다, 폭등하다
-shoot-shot-shot:～을쏘다
+shootup:급속히성장하다
+:(물가가)폭등하다
+shoot:-shot-shot～을쏘다
 administrator:경영자/운영자
 insurer:보험업자/보증인
 insure:～에보험을들다
-life insurance:생명보험
+lifeinsurance:생명보험
 employer:고용주
 employee:피고용인
 devise:고안하다
@@ -1091,7 +1097,7 @@ benefit:이익/이익이되다
 reasonable:적절한/합리적인
 unreasonable:불합리한
 federal:연방의/연합의
-federal government:연방정부
+federalgovernment:연방정부
 federate:연합시키다
 whip:채찍
 communist:공산주의자
@@ -1105,7 +1111,7 @@ outbreak:(폭등,전쟁등의)돌발
 breakout:발생하다/발발하다
 roughly:대략/대충
 revolution:혁명
-pre revolution:혁명이전
+prerevolution:혁명이전
 bless:찬양하다
 blessed:신성한/행복한
 remarkable:현저하게/눈에띄게
@@ -1136,7 +1142,7 @@ cheerful:명랑한/쾌활한
 cargo:화물
 parachute:낙하산
 scramble:기어오르다
-scramble to:～로서둘러가다
+scrambleto:～로서둘러가다
 retrieve:회복하다/구하다
 leadership:통솔력/지도력
 conscience:양심
@@ -1152,12 +1158,12 @@ bankrupt:파산자/파탄자/지불불능자
 quality:질/자질
 quantity:양
 sheer:완전한/순전한
-sheer waste:완전한낭비
+sheerwaste:완전한낭비
 wonder:놀라움
-far more:훨씬더
+farmore:훨씬더
 therefore:그러므로/그래서
-as a result:결과적으로
-on conclusion:결론적으로
+asaresult:결과적으로
+onconclusion:결론적으로
 tone:색조/어조
 mellow:원숙한/성숙한/익은
 mellowness:원숙
@@ -1168,7 +1174,7 @@ natural:자연의/본능적인/당연한
 wisdom:현명함
 wise:현명한
 approach:～에접근하다
-approaching age:(죽음에)접근하는나이
+approachingage:(죽음에)접근하는나이
 limitation:한계
 limit:한정시키다
 content:만족한/내용/목차
@@ -1183,14 +1189,15 @@ harden:딱딱하게하다
 inmate:피수용자
 rabbit:기르는토끼/집토끼
 senior:연장자/어른
-senior to:～보다나이가많은
-junior to:～보다나이가적은
-care for:돌보다
-care about:걱정하다
+seniorto:～보다나이가많은
+juniorto:～보다나이가적은
+carefor:돌보다
+careabout:걱정하다
 emotionally:정서적으로
 emotion:감정
 emotional:감정적인
-disturb:방해하다/훼방하다
+disturb:(평온등을)흩뜨리다
+:방해하다/훼방하다
 disturbance:소란/불안/방해
 disturbed:정서(정신)장애
 react:반응을나타내다
@@ -1199,49 +1206,49 @@ cuddly:꼭껴안고싶은/귀여운
 kitten:새끼고양이
 puppy:강아지
 therapy:치료/요법
-a means of therapy:치료법
+ameansoftherapy:치료법
 individual:개개의/개인적인
 individuation:개성
 statistic:통계
 frighten:～을깜짝놀라게하다
 fright:공포/경악
 frightened:깜짝놀란/겁이난
-be frightened at:～에놀라다
+befrightenedat:～에놀라다
 prevent:방지하다/막다
 prevention:방지/방해/예방
 theft:도둑질/절도죄
-thief:도둑/좀도둑
 thieves:(thief)의복수형
+thief:도둑/좀도둑
 precaution:예방조치
 caution:주의
 valuable:가치있는/귀중품
 invaluable:아주가치있는
 valueless:가치없는
-compart:칸막이하다
 compartment:구획/구분/칸
 tempt:유혹하다/충동질하다
 temptation:유혹/충동
 tempting:유혹적인
-break in:침입하다
-break out:발발하다
-break down:무너지다
+breakin:침입하다
+breakout:발발하다
+breakdown:무너지다
 deter:단념시키다/막다
 commuter:통근자
 toll:통행료
-wear and tear:손상/소모
+wearand tear:손상/소모
 lane:차선
-during for:～하는동안
+during:+기간～하는동안
+for:+숫자～하는동안에
 hassle-free:혼란(소란)없는
-boredom:지루함
-tedium:권태
+boredom:지루함(tedium)/권태
 bore:지겹게하다
-head start:유리한시작
+headstart:유리한시작
 regularly:정기적으로/어김없이
 regular:일상의/규칙적인
 regulate:통제하다/규제하다
 significant:중요한/의미심장한
 significance:의미/주요
-The matter is of no significance:그 문제는 중요하지않다.
+Thematterisofnosignificance:.
+:그문제는중요하지않다.
 factor:요인/요소
 sell:팔다/장사하다
 selling:판매의
@@ -1252,12 +1259,12 @@ decline:기울다/쇠퇴하다/거절하다
 declining:기우는
 appearance:모양/외양/모습/출현
 appear:나타나다
-replace A with B:A를 B로 대체하다
+replaceAwithBA:를B로대체하다
 replace:～에대신하다/교환하다
 decorate:장식하다
 decoration:장식
 character:특징/특성/등장인물
-soar:(물가따위)가 치솟다
+soar:(물가따위)가치솟다
 soaring:치솟기/상승
 stray:빗나간
 arrow:화살
@@ -1271,16 +1278,16 @@ endanger:위태롭게하다
 ban:금지시키다
 ban:-banned-banned
 warfare:전쟁상태(행위)
-think of A as B:A를 B로 간주하다
+thinkofAasBA:를B로간주하다
 charm:매력/마력
 charming:매력적인
 attract:끌어당기다
 attraction:매력
-look for:～을찾다
+lookfor:～을찾다
 protect:보호하다/막다
 protection:보호/방어
 primitive:원시시대의
-a primitive man:원시인
+aprimitiveman:원시인
 magic:마술/주술
 magical:마술의/불가사의한
 magician:마법사/마술사
@@ -1298,7 +1305,7 @@ recently:최근/근래/요즈음
 recent:최근의/새로운
 brain:두뇌
 immune:면역의/항체
-immune system:면역체계
+immunesystem:면역체계
 immunity:면역/면역성
 separate:분리된/별개의
 separation:분리
@@ -1306,7 +1313,7 @@ independent:독립된
 independence:독립
 dependent:의존적인
 dependence:의존
-depend on:～에의존하다
+dependon:～에의존하다
 discovery:발견/탄로/발견물
 discover:～을발견하다
 indicate:나타내다/지시하다
@@ -1319,16 +1326,16 @@ press:누르다/언론/출판
 suspect:의심스럽게여기다
 proof:증거/시험
 prove:～을증명하다
-face-to-face:얼굴을 맞대고
+face:-to-face얼굴을맞대고
 expert:숙련가/전문가
 comprehension:이해력/이해
 comprehend:이해하다
 involve:포함하다
-be involved in:～에관련되다
+beinvolvedin:～에관련되다
 actual:실제의
 actually:실제로
 contribute:공헌하다/기여하다
-contribute to:～에기여하다
+contributeto:～에기여하다
 intonation:억양/어조/음조
 leaf:나뭇잎
 carry:옮기다/지니다
@@ -1338,12 +1345,12 @@ examine:조사하다/검사하다
 examination:검사/시험
 touch:만지다/접촉
 blow:불다/흩날리다
-blow away:～을불어없애다
+blowaway:～을불어없애다
 poke:찌르다
 explore:탐사하다/탐구하다
 develop:발전시키다
 development:발전
-common to:～에공통적인
+commonto:～에공통적인
 equipment:도구/장비
 extension:연장/확장/계속
 extend:확장하다
@@ -1357,34 +1364,36 @@ inclusion:포함
 inclusive:포함하는
 heart:심장/핵심
 pump:펌프/심장
-keep up with:따라잡다
+keepupwith:따라잡다
 search:～을찾다
 pair:한쌍/부부/한벌
 pattern:형태/형식/패턴
 basement:지하실
 systematically:조직적으로
 misplace:잘못놓다
-in order to:～하기위하여
-as well:역시
+inorderto:～하기위하여
+=sothat:～may
+=inorderthat:～may
+aswell:역시
 flexible:융통성이있는
 progressive:진보적인
 progress:진보
 deplorable:개탄할만한
 deplore:비탄하다/개탄하다
 condition:상황/조건
-on condition that:～라는조건으로
+onconditionthat:～라는조건으로
 slum:빈민가
 arise:발생하다/나타나다
 task:과업/일/사업
-task wage:임금/도급
-wage:임금
+taskwage:임금/도급
 attempt:시도하다
 environment:환경
 dweller:거주자
 dwell:살다/거주하다
 earnest:진지한
 private:사적인/개인적인
-as well as:～뿐만아니라
+aswellas:～뿐만아니라
+notonly:～but(also)
 agency:기관/단체
 suburb:교외/근교/주변
 rural:전원의/시골의
@@ -1408,7 +1417,7 @@ homogeneous:동질적인
 corruption:부패
 corrupt:타락한/부패한
 arrangement:배열/정돈/정리
-be noted for:～로유명하다
+benotedfor:～로유명하다
 charm:매력/미색/아름다운용모
 charming:유쾌한/매력적인
 settle:정착하다/해결하다
@@ -1416,23 +1425,23 @@ settler:거주민
 FarEastern:극동의
 racial:인종의
 race:경주/종
-racial discrimination:인종차별
+racialdiscrimination:인종차별
 harmony:조화
 population:인구
 basically:기본적으로
 convenience:편리
 convenient:편리한
 exist:존재하다
-in addition to:게다가/더구나
+inadditionto:게다가/더구나
 breathe:숨쉬다/호흡하다
 breath:숨/호흡/생명
-out of breath:숨을헐떡이며
+outofbreath:숨을헐떡이며
 pollute:오염시키다/더럽히다
 polluted:오염된
 pollution:오염
 waste:～을낭비하다/잃다
-waste gas:폐기가스
-waste basket:휴지통
+wastegas:폐기가스
+wastebasket:휴지통
 upper:더위에있는/상부의
 lower:낮은/낮추다
 atmosphere:대기권/대기/분위기
@@ -1444,14 +1453,17 @@ electricity:전기
 burn:타다/연소하다
 coal:석탄
 petroleum:석유
-process:가공하다/절차/처리
-raw:날것의
+process:가공하다/절차/처리raw날것의
 ruin:폐허/유적
-ruinate:몰락한, 타락한
+<<<<<<< HEAD
+ruinate:몰락한,타락한
+=======
+ruinate:파멸시키다
+>>>>>>> parent of 269e497... DB구축 및 사이드 메뉴 수정
 ruinous:파괴적인
 forest:산림/숲속
 acid:산성의
-acid rain:산성비
+acidrain:산성비
 include:포함하다
 inclusion:포함
 inclusive:포함하는
@@ -1488,8 +1500,8 @@ soluble:해결할수있는/녹는
 solve:～을풀다/해결하다
 however:+형용사아무리～라할지라도
 however:그러나/그렇지만
-be accustomed to ～ing:～에익숙하다
-accustomed:늘 하는, 평소의
+beaccustomedto:～ing～에익숙하다
+=beusedto:～ing
 behavior:행동
 attitude:태도,자세
 behave:행동하다
@@ -1498,7 +1510,7 @@ helpful:도움이되는/유용한
 helpless:쓸모없는/무력한
 openly:공적으로/솔직하게
 especially:특히
-cross-cultural:다른종류의문화간의
+cross:-cultural다른종류의문화간의
 cross:십자가/교차하다
 crossbar:빗장걸이/크로스바
 cultural:문화의
@@ -1515,67 +1527,73 @@ finally:마침내/마지막으로
 completely:완전히
 complete:완전한/완벽한/완결하다
 completion:완성/완결/수료
-informal:격의없는,변칙의
+informal:격의없는
+:변칙의(=irregular)
 informality:비공식
 formal:공식적인/격식을차리는
 exist:존재하다
 existence:존재
 public:공공의/대중의
 station:장소/부서/신분/역
-radio station:방송국
+radiostation:방송국
 stationary:움직이지않는
-on the other hand:한편/반면에
+ontheotherhand:한편/반면에
 advertisement:광고/선전
 advertise:광고하다/선전하다
-don't have to:～할필요가없다
-have only to:～하기만하면된다
-You have only to study hard:너는 열심히 공부하기만하면된다.
+don:'thaveto～할필요가없다
+haveonlyto:～하기만하면된다
+Youhaveonlytostudyhard:.
+:너는열심히공부하기만하면된다.
 government:정부
 govern:지배하다
 private:사적인/개인적인
 company:회사/동료/친교/사회
 accompany:동행하다
+Federal:연방(정부)의
+Federalgovernment:연방정부
 corporation:회사/조합/협회
 corporate:단체의/법인의
 grant:보조금/승인하다
-take it for granted that:～을 당연시하다
+takeitforgrantedthatS:+V
+:～을당연시하다
 gift:선물/기증/기증품
 donate:기부하다/기증하다
 donation:기부/기증
 support:부양하다/지지하다
 supporter:부양자/지지자
-give support to:～을지지하다
+givesupportto:～을지지하다
 local:장소의/지역의/지방의
-local call:시내통화
-long distance call:시외통화
-collect call:수신자부담전화
+localcall:시내통화
+long:-distancecall시외통화
+collectcall:수신자부담전화
 locate:위치시키다
-be located in:～에위치하다
+belocatedin:～에위치하다
 location:위치선정/야외촬영
 impression:인상/감명/감동
 impress:인상짓다
 impressive:인상깊은
-well-delivered:잘표현된/잘전달된
+well:-delivered잘표현된/잘전달된
 deliver:～를배달하다
 delivery:배달/진술/발언
 farewell:작별인사/고별
-a farewell part:송별회
-farewell to arms:무기여잘있거라
+afarewellpart:송별회
+Farewelltoarms:무기여잘있거라
 secure:확보하다/굳게하다
+:안전한/튼튼한
 security:안전/안보
 forever:영원히
 exit:출구/비상구/나가기
-close a deal:거래를체결하다
+closeadeal:거래를체결하다
 treat:다루다
-do business:장사하다
+dobusiness:장사하다
 expectation:기대/예상
 expect:기대하다/예상하다
 future:미래/장래
 present:현재
 past:과거
-walk of life:(사회적)지위/직업
-deal with:처리하다/다루다
-deal in:장사하다
+walkoflife:(사회적)지위/직업
+dealwith:처리하다/다루다
+dealin:장사하다
 parting:이별/작별
 part:부분/떨어지다/작별하다
 positively:명확하게/단호히
@@ -1583,15 +1601,20 @@ positive:명백한/분명한
 negative:부정적인
 memorable:기억할수있는
 memorial:기념물/기념비
-leave-taking:작별(인사)
+leave:-taking작별(인사)
 politically:정치적으로
 suburb:교외(지역)/근교
 rural:전원의
 urban:도시의
+independent:자주적인/독립된
+independence:독립
+dependent:의존하는
+dependence:의존
+dependon:～에의존하다
 unit:단위/집단
 run:운영하다/달리다
-run the risk of:～의 위험을 무릅쓰다
-fire fight:소방관
+runtheriskof:～의위험을무릅쓰다
+firefight:소방차
 organization:조직
 organize:조직하다
 essential:필수적인
@@ -1599,7 +1622,7 @@ arrangement:배열/제도
 arrange:배열하다/정돈하다
 advantage:유리/이익
 disadvantage:불리
-take advantage of:～을이용하다
+takeadvantageof:～을이용하다
 population:인구/주민
 popularity:인기/유행
 homogeneous:동질의
@@ -1642,9 +1665,9 @@ innocent:결백한/죄없는
 innocence:결백/무죄
 rate:비율/요금/속도
 catch:붙들다/붙잡다
-catch up with:～를따라잡다
+catchupwith:～를따라잡다
 education:교육
-educate:교육하다
+educate:교육하다(bringup)
 educational:교육적인
 dramatic:극적인/희곡의
 dramatically:극적으로
@@ -1661,7 +1684,7 @@ enroll:명부에올리다
 clearly:명백하게/분명하게
 opportunity:기회
 opportune:시기가좋은
-be going to:～할예정이다
+begoingto:～할예정이다
 actually:실제로/참으로
 schooling:학교교육/제도교육
 average:평균/보통
@@ -1672,34 +1695,39 @@ steady:확고한/견실한
 available:이용할수있는
 effect:결과/영향/효과
 effective:유효한/효과적인
-have an effect on:～에 영향을주다
+haveaneffecton:～에영향을주다
 view:견해/관점
 viewy:훌륭한/볼만한
-from the point of view:～의 관점에서
-in view of:～이 보이는곳에서
+fromthepointofview:～의관점에서
+inviewof:～이보이는곳에서
 certainly:확실히/틀림없이
 certain:확실한/어떤
-be certain of:～을 확신하다
-for certain:확실히
+becertainof:～을확신하다
+forcertain:확실히
 technology:기술
 suggest:암시하다/제안하다
 suggestion:암시/제안
 determine:결정하다/결심하다
 determination:결정/결심
-make up one's mind:결심하다/결정하다
+makeupone:'smind결심하다/결정하다
 gun:대포/총
+dependon:～에달려있다
+dependence:의뢰/의존
+dependent:의지하는
+independent:독립적인
+independence:독립
 circumstance:환경/상황
 circumstantial:형편에따른
-social circumstance:사회환경
+socialcircumstance:사회환경
 surroundings:환경
 enable:～할수있게하다
-enable A to B:A가 B를 가능하게하다
+enableAtoBA:가B를가능하게하다
 force:강요하다
 impact:충격/영향/충돌
 compact:소형의
 drug:약물/마약
 drugged:～에약을타다
-drug addict:마약중독자
+drugaddict:마약중독자
 abuse:남용/악용/욕설
 abusive:남용하는/악용하는
 varying:다양한
@@ -1723,7 +1751,7 @@ chemical:화학의/화학적인
 objective:목표/목적/목적의/객관적인
 objectivity:객관성/타당성
 object:물건/물체/목표
-object to ～ing:반대하다
+objectto:～ing반대하다
 subject:주제/제목/과목/종속시키다
 subjective:주관적인
 subjectivity:주관성
@@ -1736,9 +1764,9 @@ emigrant:이주자
 unit:단위/단일체/편성
 million:백만/다수의
 billion:십억
-the number of:～의 수
-a number of:많은
-the amount of:～의 양
+thenumberof:～의수
+anumberof:많은
+theamountof:～의양
 increase:증가하다
 decrease:감소하다
 pork:돼지고기
@@ -1754,7 +1782,9 @@ consumption:소비/소모
 consumptive:소비의/소모의
 continuous:계속적인
 continue:지속하다
-in general:일반적으로
+=goon:～ing
+=keepon:～ing
+ingeneral:일반적으로
 minority:소수
 minor:적은/소수의
 major:다수의
@@ -1763,22 +1793,22 @@ religion:종교/신앙심
 religious:종교상의
 region:지역
 regional:지역적인
-protestant:개신교
+Protestant:개신교
 prefer:～을더좋아하다
-prefer A to B:B보다 A를 더좋아하다
+preferAtoBB:보다A를더좋아하다
 preference:좋아함
 Catholic:천주교
-jewish:유태교
+Jewish:유태교
 percentage:백분율
 advertise:선전하다/광고하다
 advertisement:선전
 medium:중위/매개물/중간
 media:(복수형)매체/매개물
-mass media:대중매체
+massmedia:대중매체
 median:중간의
 expenditure:지출/경비
 expend:소비하다
-annual expenditure:소비량
+annualexpenditure:소비량
 expense:지출/비용
 magazine:잡지
 claim:요구하다/청구하다
@@ -1824,7 +1854,7 @@ clay:점토/진흙
 conduct:안내하다/행동하다
 conduction:유도/끌어들임
 conductive:안내하는
-in regard to:～에관하여
+inregardto:～에관하여
 regardful:주의깊은/사려깊은
 individual:개인적인
 possession:소유/소유물
@@ -1838,21 +1868,21 @@ insufficient:불충분한/부족한
 insufficiency:부족
 insufficiently:부족하게
 obtain:얻다/손에넣다
-at the expense of:～를희생하여
+attheexpenseof:～를희생하여
 expense:비용/지출
-on the other hand:반면에/한편
+ontheotherhand:반면에/한편
 mental:마음의/정신의
 physical:육체적인
 material:물질적인
 spiritual:정신의
 spirit:정신/영혼
-be long to:～에속하다
+belongto:～에속하다
 exclusion:제외/배제
 prevent:막다/예방하다
 prevention:예방
 acquire:얻다/취득하다
-on the contrary:이에 반하여
-in conclusion:끝으로/결론으로서
+onthecontrary:이에반하여
+inconclusion:끝으로/결론으로서
 conclude:끝내다/마무리하다
 seaside:바닷가/해안
 dull:무딘/둔한
@@ -1909,17 +1939,18 @@ rejection:거절
 previously:전에/미리
 narrow:좁은/좁히다
 challenge:도전/도전하다
-in short:짧게/간략하게
-to be brief:간단히말해서
-in other words:즉/다시말하면
+inshort:짧게/간략하게
+tobebrief:간단히말해서
+inotherwords:즉/다시말하면
 heredity:상속/유전(학)
 hereditary:유전의/상속성의
 offspring:자손/자식/새끼
 resemble:닮다
 resemblance:유사/닮음
+takeafter:닮다
 inherit:상속하다/물려받다
 inheritance:상속
-depend on:의존하다
+dependon:의존하다
 dependent:의존하는
 dependence:의존
 independent:독립적인
@@ -1939,15 +1970,21 @@ float:띄우다/표류하다
 prove:시험하다/입증하다
 experiment:실험/경험
 experimental:실험에의한
-as soon as:～하자마자
+assoonas:～하자마자곧
+=:0n(=upon)～ing
+=themomentS:+V
+=theinstantS:+V
+=hardly:～when
+=scarcely:～before
+=nosooner:～than
 underneath:～아래에
 arrangement:조치/배려/배열
 arrange:배열하다/가지런히하다
 warm:따뜻한/온정이있는
 warmth:따뜻함/온정
 otherwise:반면에/그렇지않으면
-on condition that:～라는 조건으로
-so long as:～하는한
+onconditionthat:～라는조건으로
+solongas:～하는한
 unless:～하지않는다면
 nevertheless:그럼에도불구하고
 conversely:거꾸로/역관계에있어서
@@ -1956,13 +1993,15 @@ conversation:대화/회화
 consequently:따라서/결과적으로
 consequent:결과의/당연한
 consequence:결과
-on consequence:결과적으로
+onconsequence:결과적으로
 gravity:중력/진지함
 grave:중대한/중요한
 exert:발휘하다/쓰다
 exertion:발휘/노력
 exertive:노력하는
-exert one self to:～ing～에열중하다
+exertoneselfto:～ing～에열중하다
+=devoteoneselfto:～ing
+=bedevotedto:～ing
 curious:호기심이강한
 curiosity:호기심
 concentrate:집중하다
@@ -1970,7 +2009,7 @@ concentration:집중
 support:부양하다/유지하다
 locate:～에위치를정하다
 location:위치선정/위치
-be located in:～에위치하다
+belocatedin:～에위치하다
 directly:곧장/직접
 direct:똑바른/지도하다
 direction:방향/지시/지도
@@ -1985,6 +2024,7 @@ coincide:일치하다
 coincidence:일치/동시발생
 artful:교활한/기교를부린
 totally:전적으로/아주
+ontheotherhand:반면에
 countryside:한지방/시골
 permit:허락하다/인정하다
 permission:허락/허가
@@ -1992,16 +2032,17 @@ permissive:허용하는/관용된
 nightfall:일몰
 schoolmaster:남자교원/교사
 affair:일/일거리
-turn A into B:A를 B로 바꾸다
+turnAintoBA:를B로바꾸다
 dormitory:기숙사
-what`s more:게다가 또/그 위에
-for instance:예를들면
+what:`smore게다가또/그위에
+forinstance:예를들면
 slavery:노예의신분
 divorce:분리/이혼
 marry:결혼하다
 engage:약혼하다
 purpose:목적
-for the purpose of:～할 목적으로
+forthepurposeof:～할목적으로
+=withaviewto:～ing
 pyramid:피라미드
 glory:영광
 glorious:영광스러운
@@ -2031,7 +2072,7 @@ condition:조건/상태
 on condition that:～라는조건으로
 favorable:유리한/호의를보이는
 favorite:가장좋아하는
-self:-regulative자기조절하는
+self-regulative:자기조절하는
 regulate:규제하다/조절하다
 regulation:규제/조절
 restorative:회복하는
@@ -2073,7 +2114,7 @@ attitude:행동/태도
 highly:매우
 high:높이
 prize:상/상을주다
-tendto:～하는경향이있다
+tend to:～하는경향이있다
 stress:스트레스/강세
 matter:물질/문제/중요하다
 pretty:예쁜
@@ -2096,14 +2137,14 @@ behind:～뒤에/숨어서
 instead:대신에
 merely:단지
 mere:단순한
-merelybecause:단지～때문에
+merely because:단지～때문에
 examine:시험하다/검사하다
 examination:시험
 cycle:순환하다/자전거타다
 recycle:재활용하다
 practical:실용적인
 practice:관습/관행
-tobeginwith:우선/첫째로
+to begin with:우선/첫째로
 commute:통근하다
 commuting:통근하기
 commuter:통근자
@@ -2118,11 +2159,11 @@ exclude:제외시키다
 exclusion:제외/배타
 exclusive:제외하는
 exclusively:배타적으로
-ontheway:도중에
-bytheway:그런데
-intheway:방해가되어
-upto:～까지
-uptonow:지금까지
+on the way:도중에
+by the way:그런데
+in the way:방해가되어
+up to:～까지
+up to now:지금까지
 limit:제한/한계
 reasonable:합리적인
 reason:이유/이성
@@ -2130,24 +2171,25 @@ waste:낭비하다/낭비/쓰레기
 regularly:규칙적으로
 regular:규칙적인
 irregular:비규칙적인
-becaughtin:～에붙잡히다
+be caught in:～에붙잡히다
 trafficjam:교통체증
 operate:운영하다/수술하다
 operation:운영/수술
 insurance:보험
-life:-insurance생명보험
-agreatdealof:많은
-nothingbut:단지
-anythingbut:결코～하지않다
+life-insurance:생명보험
+a great deal of:많은
+nothing but:단지
+anything but:결코～하지않다
 rather:다소/약간
-ratherthan:～라기보다는
+rather than:～라기보다는
 in ～ing:～할때
 metal:금속/광물
 particular:특정한/특별한
 judge:판단하다/판사
 judgement:판단
 fairly:공정히/꽤
-fair:공정한/금발의/박람회ignore무시하다
+fair:공정한/금발의/박람회
+ignore:무시하다
 ignorant:무식한/무시하는
 ignorance:무시/무식
 identical:동일한
@@ -2169,36 +2211,36 @@ cross:건너다/십자가
 lifesaver:인명구조원
 life:생활/생명/일생/삶
 patrol:순찰/순찰하다
-patrolcar:순찰차
+patrol car:순찰차
 organization:조직
 organize:조직화하다
 specialize:전문화하다
-bespecializedin:～에전문이다
+be specialized in:～에전문이다
 whirlpool:소용돌이
 whirl:핑핑돌다
 maxim:격언/좌우명
 frequently:빈번히
 ignore:무시하다
-common:-sense상식
+common-sense:상식
 warn:경고하다
 immensity:광대함
 immense:거대한/막대한
 immensely:거대하게
 confident:확신하는
 confidence:확신
-self:-confidence자기확신
-takecareof:～을돌보다
+self-confidence:자기확신
+take care of:～을돌보다
 calm:조용한/잔잔한
 concentrate:집중하다
 concentration:집중
 breath:숨/호흡
 breathe:숨쉬다/호흡하다
-outofbreath:숨을헐떡이며
+out of breath:숨을헐떡이며
 force:강요하다/힘/군대
-beforcedto:어쩔수없이～하다
+be forced to:어쩔수없이～하다
 soak:적시다/흡수하다
 spoil:망치다
-aspoiledchild:버릇없는아이
+a spoiled child:버릇없는아이
 rotten:썩은/부패한
 germ:세균/싹/배아
 germinate:싹이트다
@@ -2214,27 +2256,27 @@ decompose:분해시키다/분석하다
 decomposition:분해/분석/변질
 compose:구성하다/작곡하다
 composition:구성/작곡/작문
-becomposedof:～로구성되다
+be composed of:～로구성되다
 material:물질의/물질
 physical:육체적인
 mental:정신적인
 broadcast:방송하다/방영하다
 broadcasting:방송
-makesense:뜻이통하다/이치에닿다
-makenosense:이치에닿지않다
+make sense:뜻이통하다/이치에닿다
+make no sense:이치에닿지않다
 sense:감각/의미
-ontheair:방송중인
+on the air:방송중인
 shrug:(어깨를)으쓱하다
 figure:숫자/모양/모습/인물
-figureout:이해하다
+figure out:이해하다
 miss:놓치다/그리워하다
 pickup:줍다/데리러가다
 thread:(이야기등의)실마리/맥락
-theneedleandthread:실달린바늘
+the needle and thread:실달린바늘
 conclude:끝내다/결론짓다
 conclusion:결말/결론
 concluding:최종적인
-inthefirstplace:우선/먼저
+in the first place:우선/먼저
 overseas:외국으로/해외로
 theme:주제/제목/테마
 enchanting:매혹적인
@@ -2252,14 +2294,13 @@ gift:선물/재능
 decade:10의단위/10년간
 decadal:10의
 childhood:어린시절/유년
-moreandmore:점점더
-havetodowith:～과관계가있다
-:～과관계가없다
+more and more:점점더
+have to do with:～과관계가있다
 fearful:무서운/두려운
 fearfulness:두려움
 reward:보수/보답/상
-rewardless:무보수의/보답없는
-adultlike:성인같은
+reward less:무보수의/보답없는
+adult like:성인같은
 childlike:어린이다운
 childish:유치한
 reassure:안심시키다
@@ -2287,7 +2328,6 @@ safety:안전
 aboard:배로/뱃전에
 captain:장/우두머리/선장
 reply:응답하다/대답하다
-thefairsex:여성
 routinely:일상적으로
 routine:정해진일/일과
 verbally:언어로/말로/구두로
@@ -2310,7 +2350,7 @@ state:州/상태/진술하다
 statement:진술/말
 setup:세우다/착수하다
 ceremony:기념식
-weddingceremony:결혼식
+wedding ceremony:결혼식
 obey:복종하다
 obedient:복종하는
 obedience:복종
@@ -2325,7 +2365,7 @@ competition:경쟁
 company:회사/친구/동료
 accompany:동행하다
 application:지원
-applyfor:지원하다
+apply for:지원하다
 applicant:지원자
 resume:이력서/개요/다시시작하다
 applicant:지원자
@@ -2338,10 +2378,9 @@ investigate:조사하다
 investigation:조사
 investigator:조사자
 race:경주/인종
-racialdiscrimination:인종차별
+racial discrimination:인종차별
 worthwhile:～할가치있는
-beworth:～ing～할가치가있다.
-=beworthyof:～ing
+be worth:～ing～할가치가있다.
 dictionary:사전/옥편
 define:정의하다/규정짓다
 definition:정의
@@ -2353,16 +2392,13 @@ experimental:실험의
 experiment:실험
 period:기간
 aside:곁에/옆에
-setaside:저축하다
 term:용어/말/학기/기간
-:～와좋은사이다
 coat:상의/가죽/외피
-image:像/이미지
 synonymous:동의어의
 synonym:동의어
 intelligent:지적인
 prison:감옥
-gotoprison:감옥살이하다
+go to prison:감옥살이하다
 investigation:조사
 investigate:조사하다
 invest:투자하다
@@ -2372,7 +2408,7 @@ surgery:진찰실/수술실/외과
 nose:코
 funny:익살맞은/재미있는
 confidence:확신
-self:-confidence자기확신
+self-confidence:자기확신
 treatment:취급
 treat:다루다/취급하다/대접하다
 behave:행동하다
@@ -2387,10 +2423,10 @@ amusing:재미있는/즐거운
 career:경력/직업
 situation:상황
 regard:간주하다/고려하다
-regardAasBA:를B로간주하다
+regard A as B:A를 B로 간주하다
 inappropriate:부적절한
 appropriate:적당한
-worryabout:걱정하다/염려하다
+worry about:걱정하다/염려하다
 future:미래
 present:현재
 past:과거
@@ -2405,7 +2441,6 @@ hang:-hung-hung(걸다)
 prediction:예상/예보
 predict:예상하다/예보하다
 decide:결심하다
-=makeupone:'smind
 military:군대의
 curious:호기심있는
 curiosity:호기심
@@ -2430,8 +2465,6 @@ religion:종교
 region:지역
 racial:인종상의
 race:경주/인종
-humanrace:인간
-racialdiscrimination:인종차별
 cultural:문화적인
 culture:문화
 civilization:문명
@@ -2440,12 +2473,12 @@ politics:정치학
 refrain:그만두다
 average:평균
 necessarily:필연적으로/반드시
-not:～necessarily반드시～인것은아니다
+not:반드시～인것은아니다
 intelligent:지적인
 intelligence:智/지성
 genius:천재
 possess:소유하다
-beinpossessionof:～을소유하다
+be in possession of:～을소유하다
 ensure:보장하다
 precisely:정확하게
 precise:정확한
@@ -2461,7 +2494,7 @@ inherit:상속하다
 inheritance:상속/유산
 ancestor:조상
 rather:다소/약간
-ratherthan:～라기보다는
+rather than:～라기보다는
 capture:붙잡다
 nearsighted:근시의
 farsighted:원시의
@@ -2471,7 +2504,7 @@ distinguish:구별하다
 unless:만약～이아니면
 otherwise:그렇지않으면
 close:가까운/밀접한/닫다
-takeadvantageof:～을이용하다
+take advantage of:～을이용하다
 near:가까이
 nearly:거의
 capture:잡다/빼앗다
@@ -2495,24 +2528,24 @@ explanation:설명
 reason:이유/이성
 reasonable:합리적인
 unreasonable:불합리한
-well:-rounded원만한
+well-rounded:원만한
 round:둥근/원형의
 expect:기대하다/예상하다
-beexpectedto:～하기로되어었다
-frownupon:～에얼굴을찌푸리다
+be expected to:～하기로되어었다
+frown upon:～에얼굴을찌푸리다
 matter:물질/문제/일/중요하다
 late:늦은
 lately:최근에
 irritated:안달이난/화난
 irritate:화나게하다
 break:잠시동안의휴식
-coffeebreak:커피휴식
+coffee break:커피휴식
 stressful:긴장이많은
 stress:압박/스트레스/강세/강조
 restful:평안을주는
-therest:나머지
-arest:휴식
-reston:의존하다
+the rest:나머지
+a rest:휴식
+rest on:의존하다
 favorite:마음에드는것
 favorable:호의적인/유망한
 ages:연령/시대/시절
@@ -2531,7 +2564,7 @@ deserve:～할가치있다
 famous:유명한
 fame:명성/평판
 source:근원/자원
-thanksto:～덕택에/～때문에
+thanks to:～덕택에/～때문에
 public:공중의/대중의
 nature:자연/천성/본성
 natural:자연의/본성의/당연한
@@ -2552,7 +2585,7 @@ indifferent:무관심한
 indifference:무관심
 different:다른
 difference:차이
-beworth:～ing～할가치있다
+be worth:～ing～할가치있다
 enthusiast:광/팬
 enthusiasm:열광/의욕
 enthusiastic:열광적인
@@ -2563,12 +2596,11 @@ path:길/오솔길/보도
 throw:던지다
 intense:강한/격렬한
 intensive:강한/격렬한
-intension:긴장/노력/세기
+in tension:긴장/노력/세기
 dramatic:극적인
 dramatically:극적으로
 diamond:내야/야구장
 plate:판금
-homeplate:본루
 exceed:나아가다/전진하다
 excess:초과/지나침
 excessive:과도한/지나친
@@ -2582,7 +2614,7 @@ perform:수행하다/공연하다
 indicate:지적하다/지시하다
 indication:지적/지시
 indicator:표시기/지시기
-co:-education남녀공학
+co-education:남녀공학
 assumption:가정
 assume:가정하다/～라고생각하다
 benefit:이익/혜택
@@ -2590,28 +2622,27 @@ beneficial:유익한/이로운
 diminish:줄이다/감소하다
 increase:증가시키다
 career:직업/업적/경력
-self:-confidence신념/자신감
+self-confidence:신념/자신감
 academically:학문적으로
 rigorous:엄한/엄격한
 rigor:엄함/엄격
 option:선택사항/선택권
 scarce:드문/희귀한
 scarcity:부족/결핍
-asaresult:결과적으로
+as a result:결과적으로
 update:갱신하다/새롭게하다
 upgrade:등급을높이다
-upsidedown:거꾸로
+up side down:거꾸로
 replace:대신하다/대체하다
 replacement:대신/대체
 countless:셀수없는/아주많은
-feellike:～ing～하고싶다
-giveup:포기하다
-bethroughwith:～을끝내다
-commitoneselfto:～에전념하다
-=devoteoneselfto:～ing
+feel like:～ing～하고싶다
+give up:포기하다
+be through with:～을끝내다
+commit one self to:～에전념하다
 hinder:방해하다
 hindrance:방해/장해
-upsanddowns:(인생의)부침/성쇠
+up sand downs:(인생의)부침/성쇠
 explode:폭파하다
 explosion:폭발
 explosive:폭발의/폭발물
@@ -2625,7 +2656,7 @@ fairly:공정히/공평히/꽤
 massive:엄청난/거대한
 slightly:약하게/경하게
 slight:약한/경미한/경시하다
-outoftouchwith:～와접촉이없는
+out of touch with:～와접촉이없는
 autograph:자필서명/사인
 recognize:인식하다/알아차리다
 award:상/보상/수여하다
@@ -2633,9 +2664,7 @@ million:백만
 billion:10억
 championship:선수권대회
 association:연합/협회/교제
-notatall:전혀～하지않은
-=not:～intheleast
-=not:～intheworld
+not at all:전혀～하지않은
 honorary:명예상의
 honor:명예
 honorable:존경할만한/존경하는
@@ -2647,12 +2676,12 @@ appearance:출현/외모
 footlight:각광
 contemporary:동시대의/당대의
 estimate:평가/평가하다
-toalargeextent:주로/넒게보아
-toaextent:어느정도
+to large extent:주로/넒게보아
+to a extent:어느정도
 performance:공연/수행
 perform:공연하다/수행하다
-civilservant:공무원
-everybit:모든면에서
+civil servant:공무원
+every bit:모든면에서
 frame:구상하다/뼈대/틀
 direct:직접적인/똑바른/명령하다
 direction:방향
@@ -2668,7 +2697,7 @@ obviously:분명하게/명백하게
 intuition:직관
 intuitive:직관적인
 intuitively:직관적으로
-thatis:(tosay)즉/다시말하여
+that is(to say):즉/다시말하여
 acquaintance:지식/앎/아는사이
 acquaint:알리다/알게되다
 character:특징/특성/등장인물
@@ -2677,7 +2706,7 @@ primary:주된/첫째의/으뜸의
 prime:첫째의/주요한/으뜸
 discovery:발견
 discover:발견하다/알아내다
-firstofall:우선/첫째로
+first of all:우선/첫째로
 proper:적당한
 puppy:강아지
 pet:애완동물
@@ -2685,31 +2714,28 @@ balance:저울/균형/균형을맞추다
 diet:식이요법/식사
 contain:포함하다
 vegetable:야채
-bestuckin:～에끼어박히다
-Iwasstuckinheavytraffic:.
-:교통체증에갇혔다.
+be stuck in:～에끼어박히다
 throat:목구멍/인후
-plentyof:많은
-figuredrawing:인물화
+plenty of:많은
+figure drawing:인물화
 figure:인물/숫자/도형
 draw:그림을그리다/끌어당기다
 add:더하다
 addition:더하기
-inaddition:덧붙여서
+in addition:덧붙여서
 mainline:윤곽
 guide:안내하다/안내자
-inproportionto:～～에비례해서
+in proportion to:～～에비례해서
 reach:뻗다/도달하다/범위/도달
 hostess:여주인
 host:남자주인
 seat:좌석/자리/착석시키다
-beseat:자리에앉다
-infrontof:～정면에서
-giveapush:밀다
-giveanaddress:연설하다
-makeamistake:실수하다
-takeawalk:산책하다
-takethelead:앞장서다/솔선하다
+be seat:자리에앉다
+in front of:～정면에서
+give a push:밀다
+make a mistake:실수하다
+take a walk:산책하다
+take the lead:앞장서다/솔선하다
 guest:손님
 disease:병
 punishment:처벌
@@ -2726,37 +2752,36 @@ insanity:정신이상
 sane:제정신의
 sanity:제정신/온전함
 insane:미친/제정신이아닌
-besupposedto:～하기로되어있다
+be supposed to:～하기로되어있다
 evil:나쁜/사악한/악
 devil:악마/마귀
 spirit:정신/영
-evilspirit:악령/악마
+evil spirit:악령/악마
 cure:치료/치료하다
 defeat:쳐부수다/패배시키다
 ceremony:의식
-weddingceremony:결혼식
+wedding ceremony:결혼식
 satisfy:만족시키다
-besatisfiedwith:～에만족하다
+be satisfied with:～에만족하다
 industrialist:산업경영자/실업가
-devoteoneselfto:～에몰두하다
-=bedevotedto:～ing
+devote one self to:～에몰두하다
 cooperative:협동의/협력적인
 cooperation:협동
 colony:식민지/집단/부락
 settlement:정착/해결
 settle:정착하다/해결하다
 harmony:조화
-inharmonywith:～과조화하여
+in harmony with:～과조화하여
 credit:신용/명예
 creditable:명예가되는
 earn:벌다
-makemoney:돈을벌다
+make money:돈을벌다
 initiate:시작하다
 initial:처음의/시작의/머리글자
 project:고안/계획하다
 imitate:모방하다/모범으로삼다
 imitative:모방의
-imitativeof:～의모방하다
+imitative of:～의모방하다
 imitator:모방자
 imitation:모방
 establish:설립하다
@@ -2812,9 +2837,9 @@ contentment:만족
 classifiedads:안내광고/3행광고
 disclose:드러내다/누설하다
 reveal:들추어내다/폭로하다
-free:-of-charge무료의
+free-of-charge:무료의
 comment:논평/주석/논평하다
-oneday:어느날
+one day:어느날
 someday:어느날
 consent:동의하다/동의
 dissent:의견을달리하다
@@ -2826,9 +2851,9 @@ accurate:정확한
 excellence:우수/우월
 excellent:우수한/우월한
 rest:나머지/휴식/의존하다
-therest:나머지
-arest:휴식
-reston:의존하다
+the rest:나머지
+a rest:휴식
+rest on:의존하다
 survey:조사하다/바라보다
 poll:투표/여론조사
 widely:폭이넓게
@@ -2839,18 +2864,18 @@ conclusive:결정적인/결론적인
 conclude:결론짓다
 conclusion:결말/결론
 decade:10년
-manydecades:수십년
+many decades:수십년
 transfer:양도하다/옮기다/양도
 concern:관심/걱정
-beconcernedabout:～에걱정하다
-beconcernedwith:～에관련되다
+be concerned about:～에걱정하다
+be concerned with:～에관련되다
 settle:정착하다/해결하다
 settlement:정착/해결
 consider:생각하다/간주하다
-everybit:모든점에서
-bitbybit:단계적으로
-as:～as～만큼～한
-notso:(as)～as～만큼～하지않은
+every bit:모든점에서
+bit by bit:단계적으로
+as ～as:～만큼～한
+not so (as)～as:～만큼～하지않은
 British:영국
 geographical:지리적인
 geography:지리
@@ -2858,16 +2883,17 @@ assume:생각하다/가정하다
 assumption:가정/떠맡음
 eventual:최후의/영원한
 eventually:결국/드디어/마침내
-infact:사실상
+in fact:사실상
 own:소유하다/자신의
 mount:오르다
 whisker:구레나룻수염
 beard:턱수염
 mustache:코밑수염
 planet:혹성
-pack:꾸러미/짐을구리다immense거대한
+pack:꾸러미/짐을구리다
+immense:거대한
 immensely:거대하게/아주
-stepbystep:조금씩조금씩
+step by step:조금씩조금씩
 galaxy:은하(수)/은하계
 universe:우주
 universal:우주의/일반적인
@@ -2878,7 +2904,7 @@ imaginative:상상의
 imagine:상상하다
 imagination:상상
 audacious:대담한
-counton:믿다
+count on:믿다
 transport:수송하다/운송하다
 finance:재정
 financial:재정의
@@ -2896,19 +2922,19 @@ daily:일간으로
 review:재조사/복습/감사
 board:위원회/관리단
 condition:상태/조건
-onconditionthat:～라는조건으로
+on condition that:～라는조건으로
 applications:신청
-applyfor:지원하다
+apply for:지원하다
 applicant:지원자/신청자
 favorably:호의적으로
 favor:호의/친절
 favorable:호의적인
 favorite:가장좋아하는
-beawareof:～을알아차리다
+be aware of:～을알아차리다
 awareness:인식
 effort:노력
-makeeffort:노력하다
-onbehalfof:대신하여
+make effort:노력하다
+on be half of:대신하여
 company:회사/친구/동료
 accompany:동행하다
 emphatically:단호하게/결단코
@@ -2916,27 +2942,26 @@ appreciate:평가하다/감사하다
 appreciation:감사/감상
 disappointment:실망
 disappoint:실망시키다
-bedisappointedat:～에실망하다
-forthetimebeing:당분간
-forawhile:당분간
+be disappointed at:～에실망하다
+for the time being:당분간
+for a while:당분간
 agree:동의하다
 agreement:동의
 agreeable:기분좋은
 demand:요구하다/주장하다
-demandandsupply:수요와공급
+demand and supply:수요와공급
 permit:허락하다/허가하다
 permission:허락/허가
 appreciate:평가하다/감상하다
 reject:거절하다
-well:-known유명한/잘알려진
-beknownfor:～로유명하다
-beknownto:～에게알려지다
-beknownby:～로알려지다
+well-known:유명한/잘알려진
+be known for:～로유명하다
+be known to:～에게알려지다
+be known by:～로알려지다
 quality:질/자질
 quantity:양
 reliability:신뢰도
 rely:믿다
-eliable:믿을만한
 goods:상품
 hesitation:주저함
 hesitate:주저하다/망설이다
@@ -2949,54 +2974,50 @@ connect:잇다/결합하다
 connection:관계/연락/연결
 energetically:힘차게
 energetic:정력적인/힘차게
-not:～anymore더이상～하지않은
-reweld:다시용접하다
+not ～ anymore:더이상～하지않은
+re weld:다시용접하다
 grateful:감사해하는
 unfortunate:불운한/불행한
 unfortunately:불행하게
 fortune:행운/재산
-makefortune:돈을벌다/재산을모으다
 police:경찰
 criticize:비평하다/비판하다
 criticism:비평/비판
 critical:비판적인/비평적인
 incapable:～할능력이없는
-becapableof:～할능력이있다
-beableto:～할수있다
+be capable of:～할능력이있다
+be able to:～할수있다
 capability:능력
 incapability:무능력
 prevent:막다/예방하다
-preventer:방해자
 prevention:방지/예방
 crime:죄
 criminal:죄의/범죄자
 arrest:체포하다
-sufferfrom:～겪다/고생하다
-havedifficult:～ing～에어려움을겪다
-havetrouble:～ing
+suffer from:～겪다/고생하다
+have difficult:～ing～에어려움을겪다
+have trouble:～ing
 criminal:범죄인
 namely:즉/다시말하자면
-=thatis:(tosay)
 shortage:부족/결핍
-beshortof:～이부족하다
+be short of:～이부족하다
 manpower:인력
 equipment:장비
 equip:장비를갖추다
-aswellas:～뿐만아니라
-notonlyAbut:(also)B
+as well as:～뿐만아니라
 inadequate:불충분한
 salary:봉급/급료
 government:정부
 govern:지배하다
-doone:'sutmost최선을다하다
 enhance:고양시키다
 capability:능력
 force:힘/군대/～을강요하다
-beforcedto:어쩔수없이～하다
+be forced to:어쩔수없이～하다
 means:수단/방법/재산
-especially:특히/각별히especial특별한/각별한
+especially:특히/각별히
+especial:특별한/각별한
 raise:올리다/끌어올리다
-sothatS:+V그래서/～하기위하여
+so that S+V:그래서/～하기위하여
 serve:섬기다/～에봉사하다
 trustworthy:신뢰할수있는
 servant:상용인/고용인
@@ -3006,11 +3027,11 @@ encourage:격려하다
 discourage:낙담시키다
 courage:용기
 courageous:용기있는
-makesure:확인하다/확신하다
-beconcernedabout:걱정하다
-beconcernedwith:～과관계되다
+make sure:확인하다/확신하다
+be concerned about:걱정하다
+be concerned with:～과관계되다
 environment:환경
-newbornnursery:신생아실
+new born nursery:신생아실
 ordinarily:보통/대개
 skin:피부
 skinny:피골이상접한/깡마른
@@ -3020,15 +3041,13 @@ solve:풀다/해결하다
 landfill:쓰레기매립지
 problem:문제
 deserve:～할만하다
-=beworth:～ing
-=beworthyof:～ing
 terribly:무섭게/지독하게
 terrible:무서운/지독한/나뿐
 terrific:굉장한/아주좋은
 upset:당황한
-beembarrassed:당황하다
+be embarrassed:당황하다
 tough:강인한/질긴
-worryabout:걱정하다
+worry about:걱정하다
 cope:대처하다
 invite:초청하다/초대하다
 graduation:졸업
@@ -3041,33 +3060,28 @@ mature:성숙한/익은
 premature:미숙한
 immature:조수간
 maturity:성숙/원숙
-self:-confident자신감에찬
-self:-confidence자기확신
-self:-conscious자의식의
-self:-help자조
+self-confident:자신감에찬
+self-confidence:자기확신
+self-conscious:자의식의
+self-help:자조
 realize:알아차리다
-growup:자라다/성장하다
-grown:-up성인
-growing:-up청소년
+grow up:자라다/성장하다
+grown-up:성인
+growing-up:청소년
 edge:가장자리/언저리/끝
 inform:알려주다/통보하다
 information:정보
 staff:직원/간부
-applyfor:지원하다/응모하다
+apply for:지원하다/응모하다
 application:지원/신청
 applicant:지원자/신청자
 post:기둥/지위/자리
-:우편/편지를부치다
 administrative:행정의/경영의
 administration:경영/관리/행정
 manager:지배인/경영자
 organization:조직
 organize:조직하다
 oblige:감사하다/강요하다
-Iammuchobligedtoyou:.
-:감사합니다
-Iamobligedtodoit:.
-:어쩔수없이그것을했다.
 opinion:의견/견해
 efficiency:능력/효율성
 efficient:능률적인/유능한
@@ -3075,15 +3089,14 @@ character:특성/특징/등장인물
 characteristic:특징/특성
 reliable:믿을만한
 reliability:신뢰
-relyon:믿다/의존하다
-hard:-working열심히일하는
-inparticular:특히
+re lyon:믿다/의존하다
+hard-working:열심히일하는
+in particular:특히
 safely:안전하게
 safe:안전한/금고
 trust:신뢰/신용/믿다
 confidential:기밀의/비밀의
 matter:물질/물건/일/문제/
-Itdoesn:'tmatter.중요하지않아
 anticipation:기대/예상
 anticipate:예상하다
 participate:참가하다
@@ -3092,12 +3105,11 @@ inquire:묻다/조사하다
 complaint:불평
 complain:불평하다
 application:적용/신청
-applyfor:지원하다
+apply for:지원하다
 recommendation:추천
 recommend:추천하다
 manage:처리하다
-accordingto:명사～에따라서
-accordingasS:+V
+according to:～에따라서
 meet:충족시키다/직면하다
 needs:필요/결핍/빈곤
 employer:고용주
@@ -3116,8 +3128,6 @@ industrialize:산업화하다
 industrial:산업의
 industrialization:산업화
 policy:정책/방침
-Honestyisthebestpolicy:.
-:정직이최상의방책이다.
 poise:자세를잡다
 tensed:긴장된
 scream:소리치다
@@ -3133,8 +3143,6 @@ pause:잠깐쉬다/멈추다
 downward:내려가는
 thrust:밀다/내밀다/밀침/찌름
 leap:뛰다/도약하다
-Lookbeforeyouleap:.
-:뛰기전에보아라.
 forward:앞으로
 backward:뒤로
 frightening:무서운/놀라운
@@ -3143,7 +3151,7 @@ frighten:무섭게하다
 except:～을제외하고
 breakdown:무너지다/실패하다
 breakout:발생하다
-breakin:침입하다/끼여들다
+break in:침입하다/끼여들다
 conduct:행동
 kindergarten:유치원
 entirely:전적으로
@@ -3154,13 +3162,13 @@ motor:발동기
 skeptical:회의적인/의심많은
 confuse:혼란시키다
 confusion:혼란
-beconfused:당황하다
+be confused:당황하다
 besides:～이외에/덧붙여서
 evolution:진화/발전
 evolve:발달하다/전개하다
 scream:소리를지르다
 fill:채우다
-befilledwith:～로가득차있다
+be filled with:～로가득차있다
 contented:만족한
 content:만족시키다
 indifferent:무관심한
@@ -3171,19 +3179,19 @@ sympathetic:동정적인/공감하는
 sympathy:동정/연민
 timid:겁많은
 timidity:수줍음/소심
-shy:/modest수줍은
+shy/modest:수줍은
 seldom:좀처럼～않는
 ride:타다
-getoff:내리다
+get off:내리다
 amusement:즐거움
 amusing:재미있는
 amuse:즐겁게하다
-beforcedto:어쩔수없이～하다
+be forced to:어쩔수없이～하다
 announcement:발표/공표
 announce:발표하다
 congratulation:축하
 congratulate:축하하다
-incelebrationof:～을기념하여
+in celebration of:～을기념하여
 celebrate:기념하다
 celebration:기념
 trip:여행
@@ -3192,7 +3200,7 @@ delight:기쁨
 delighted:매우즐거운
 embarrassed:당황한
 embarrassment:당혹
-beembarrassed:당황하다
+be embarrassed:당황하다
 depressed:내리눌린/울적한
 depression:하락/우울/불경기
 depress:우울하게하다
@@ -3203,7 +3211,7 @@ recent:최근의
 accomplishment:성취/달성
 accomplish:성취하다/달성하다
 relevant:관련된
-berelevantto:～에관련된
+be relevant to:～에관련된
 chairman:의장
 conclude:끝내다/결론짓다
 conclusion:종결
@@ -3216,12 +3224,12 @@ informative:정보를알리는
 inform:알리다
 pickup:줍다/따다
 drop:물방울/하락
-takecareof:～을돌보다
+take care of:～을돌보다
 matter:물질/물건/문제
 available:이용할수있는
 avail:이용하다
 quickly:빠르게/즉시
-funeralhome:장례식장
+funeral home:장례식장
 funeral:장례의
 across:가로질러/건너서
 cross:십자가/건너다
@@ -3231,7 +3239,7 @@ search:찾다/수색하다
 empty:빈/공허한
 refrigerator:냉장고
 store:상점/저장하다
-compactcar:소형승용차
+compact car:소형승용차
 traffic:교통의
 roll:구르다
 gloomy:어두운/우울한
@@ -3239,9 +3247,9 @@ humorous:해학적인
 enormously:엄청나게
 enormous:거대한/엄청난
 huge:거대한/엄청난
-thenumberof:～의수
-anumberof:많은(셀수있는명사)
-theamountof:～의양(셀수없는명사)
+the number of:～의수
+a number of:많은(셀수있는명사)
+the amount of:～의양(셀수없는명사)
 shorten:짧게하다/줄이다
 short:잚은
 shortage:부족/결핍
@@ -3257,7 +3265,7 @@ population:인구
 popularity:유행
 recent:최근의
 generation:세대
-thenewgeneration:신세대
+the new generation:신세대
 ingenious:재주있는
 create:창조하다/만들다
 creation:창조
@@ -3287,17 +3295,16 @@ competitive:경쟁의/경쟁하는
 relationship:관계/관련
 cycle:주기/순환
 certain:확실한/어떤
-makecertain:확신하다
-ballpointpen:볼펜
+make certain:확신하다
+ball point pen:볼펜
 appointment:약속
-makeappointment:(시간)약속하다
-makeapromise:약속하다
+make appointment:(시간)약속하다
+make a promise:약속하다
 menu:식단
 prescription:처방
 prescribe:처방하다/규정하다
 consultation:자문/상담
 consult:참고하다/자문하다
-practicemedicine:의사개업하다
 swell:부어오르다
 strengthen:강하게하다
 strength:힘/세기
@@ -3329,7 +3336,7 @@ recognition:인식/승인
 career:경력/직업/업적
 timetable:시간표
 claim:요구하다/요청하다
-personaleducation:인성교육
+personal education:인성교육
 pupil:학생/동공
 especially:특히
 especial:특별한
@@ -3344,9 +3351,9 @@ royalty:왕/왕권/특허사용권
 identity:자아/주체/동일
 identify:동일시하다
 identical:동일한
-consistof:～로구성되다
-consistin:～에놓여있다
-consistwith:～과양립하다
+consist of:～로구성되다
+consist in:～에놓여있다
+consist with:～과양립하다
 consistent:일치하는
 accompanying:동반하는
 accompany:동반하다
@@ -3360,7 +3367,7 @@ complement:보충하다/보충
 element:기본
 material:물질적인/물질
 fundamental:기본적인/기초적인
-fundamentalright:기본권
+fundamental right:기본권
 thoroughly:철저하게
 support:지탱하다
 range:열/연속/범위/산맥
@@ -3395,6 +3402,11 @@ worldly:이세상의/세속적인
 significance:중요/중요성/의미
 significant:중요한/의미있는
 signify:의미하다
+dependent:의지하고있는
+dependence:종속/의존
+depend on:～에의존하다
+independent:독립적인
+independence:독립
 amount:양/총량
 the amount of:～의양
 the number of:～의수
@@ -3435,19 +3447,18 @@ discourage:낙담시키다
 conscience:양심
 conscious:의식적인
 electricity:전기
-incaseS:+V～할경우에
-incaseof:명사
-theredcross:적십자사
-healthcenters:보건소/진료소
+in case S:+V～할경우에
+in case of:명사
+the red cross:적십자사
+health centers:보건소/진료소
 nearby:근처의
 organize:조직하다
 organization:조직
 save:구출하다/저축하다
-putby:저축하다
 spend:쓰다/소비하다
 local:지역의/지방의
 station:방송국
-localstation:지방방송
+local station:지방방송
 tune:주파수를맞추다
 favorite:가장좋아하는것
 favorable:호의적인
@@ -3470,11 +3481,9 @@ psychology:심리학/심리
 isolation:고립/격리
 isolate:고립시키다/격리하다
 isolated:고립된/격리된
-beoutofone:'selement
-:원래의살던곳에서벗어나있다
 nevertheless:그럼에도불구하고
 concept:개념
-comeofage:어른이되다
+come of age:어른이되다
 connect:잇다/결합하다
 connection:결합/연결
 elaborate:정교한/공을들인
@@ -3484,7 +3493,7 @@ transportation:수송
 transport:수송하다/운송하다
 nourish:영양을공급하다
 resource:자원
-naturalresource:천연자원
+natural resource:천연자원
 futurist:미래학자
 argument:논쟁
 argue:논쟁하다
@@ -3504,8 +3513,7 @@ intolerance:도량이좁음
 tolerate:참다/견디다
 tolerance:관용/관대/아량
 temper:성질/기질
-loseone:'stemper화를내다
-=keepone:'stemper
+lose one's temper:화를내다
 correct:바른/바르게하다
 ignorance:무지/무식
 knowledge:학식/지식
@@ -3525,7 +3533,7 @@ liberty:자유/해방
 liberalize:자유화하다
 bucket:양동이/물통
 grain:미량/곡물
-goldgrain:황금곡식
+gold grain:황금곡식
 dwell:거주하다
 dweller:거주민
 sink:가라앉다
@@ -3538,12 +3546,12 @@ safe:안전한/금고
 guard:지키다/경계하다
 liberty:자유
 liberal:자유로운
-standingarmy:상비군
+standing army:상비군
 disclose:드러내다/폭로하다
 close:닫다/가까운/친밀한
 disguise:변장시키다/가장하다
 lack:부족/결핍/～이부족하다
-forlackof:～이부족하여
+for lack of:～이부족하여
 discipline:규율
 superstition:미신
 mountain:산
@@ -3556,7 +3564,7 @@ electricity:전기
 electronic:전자의
 wire:철사/전선/줄
 patrol:순시하다/순찰하다
-patrolcar:순찰차
+patrol car:순찰차
 carry:운반하다/지니다
 prison:형무소/감옥
 jail:감옥/교도소
@@ -3565,8 +3573,8 @@ related:관계있는
 relate:이야기하다/관계시키다
 relation:관계
 relative:관계된/친척
-havesomethingtodowith:～과관계가있다
-havenothingtodowith:～과관계가없다
+have something to do with:～과 관계가있다
+have nothing to do with:～과 관계가없다
 analyst:분석가/분해자
 analysis:분석/분해
 analyze:분석하다/분해하다
@@ -3584,7 +3592,7 @@ occasional:이따금씩의
 occasion:이유
 precaution:조심/예방
 caution:주의/조심
-mistakeAforBA:를B로잘못생각하다
+mistake A for B:A를 B로 잘못생각하다
 approach:접근하다
 greet:인사하다
 greeting:인사
@@ -3594,15 +3602,15 @@ apology:사죄/사과
 apologize:사과하다
 astonishment:경악/놀라움
 astonish:놀라게하다
-beastonishedat:～에놀라다
+be astonished at:～에놀라다
 optimist:낙관주의자
 optimism:낙천주의
 pessimism:비관주의
 pessimist:비관주의자
 badly:나쁘게/서투르게
 meaning:의미
-regardlessof:～에관계없이
-tosaynothingof:～은말할것도없이
+regard less of:～에 관계없이
+to say nothing of:～은 말할것도없이
 state:상태/州/진술하다
 statement:진술/말
 surround:둘러싸다
@@ -3612,11 +3620,11 @@ emptiness:공허/빈곳
 useless:쓸모없는
 useful:유용한
 usage:용법/관습/관행
-strivefor:～을얻으려고애쓰다
+strive for:～을얻으려고애쓰다
 thankful:감사하고있는
 gift:선물/재능
 decade:10년
-manydecades:수십년간
+many decades:수십년간
 endure:견디다/지탱하다/계속하다
 hellish:지옥같은
 hell:지옥
@@ -3624,7 +3632,7 @@ heaven:천국
 terror:공포
 president:대통령
 presidential:대통령의
-callon:요구하다
+call on:요구하다
 overthrow:뒤집어엎다
 overflow:범람하다
 overeat:과식하다
@@ -3637,8 +3645,8 @@ response:응답
 responsible:책임있는
 instantly:즉시
 instant:즉시/순간/즉각의
-instantS:+V～하자마자
-takeuparms:무기를들다
+instant S+V:～하자마자
+take up arms:무기를들다
 arms:팔들/무기
 unarmed:비무장한
 troop:떼/부대
@@ -3659,7 +3667,7 @@ solve:풀다/해결하다
 adult:성인의
 separate:분리하는/별개의/분리하다
 responsibility:책임
-takeresponsibilityof:～에책임이있다
+take responsibility of:～에책임이있다
 conflict:싸움/투쟁
 spiritual:정신의
 spirit:정신/혼
@@ -3674,16 +3682,15 @@ particular:특수한/특별한
 particularly:특별히
 sensitive:민감한
 sensible:분별있는
-barometricpressure:기압
 pressure:압력
 press:누르다/언론/출판
 predict:예언하다/예상하다
 prediction:예상/예언
 weather:일기/날씨
-weatherforecast:일기예보
+weather forecast:일기예보
 lower:낮추다/내려가다
 compensate:벌충을하다/메우다
-makeupfor:～을보충하다
+make up for:～을보충하다
 indicate:～의징후이다
 indication:지시/징후
 indicator:척도/표시기
@@ -3693,7 +3700,8 @@ similarity:유사/비슷함
 housefly:집파리
 detect:감지하다
 detection:간파/탐지
-detective:탐정/형사downpour(억수같은)비
+detective:탐정/형사
+downpour:(억수같은)비
 react:반응하다
 reaction:반응/반동
 thunderstorm:천둥이치는폭풍우
@@ -3703,12 +3711,12 @@ lick:핥다
 fur:모피/털
 whistle:휘파람을불다/휘파람
 cheerfully:기분좋게/명랑하게
-exceptfor:～이없으면
+except for:～이없으면
 parcel:소포
 deliver:배달하다/의견을말하다
 delivery:배달/인도/말투
 mind:마음/정신
-neverfailedto:언제나～하다
+never failed to:언제나～하다
 piece:조각/단편/부품
 spice:조미료/향신료
 attendant:수행원
@@ -3718,16 +3726,16 @@ consume:소비하다
 average:평균의
 drop:물방울/하락
 former:앞의/이전의
-switchto:～로바꾸다/전환하다
+switch to:～로바꾸다/전환하다
 beverage:음료
 soda:소다
-comeby:얻다/입수하다
+come by:얻다/입수하다
 refrigeration:냉동/냉장
 commonplace:공동장소
 major:주요한
 agency:서비스/제공기관
 independent:독립의
-self:-sustaining자립한
+self-sustaining:자립한
 sustain:지탱하다/견디다
 bureau:국(관청의)
 subscriber:기부자
@@ -3739,8 +3747,9 @@ statements:성명/말/진술
 state:州/상태/진술하다
 snowflake:눈송이
 flake:얇은조각
-through:～을뚫고서/～를통하여near가까이
-freezingpoint:빙점
+through:～을뚫고서/～를통하여
+near:가까이
+freezing point:빙점
 freeze:-froze-frozen
 contain:포함하다
 container:그릇/용기/컨테이너
@@ -3750,24 +3759,23 @@ condenses:응축되다
 freeze:얼다/얼게하다
 crystal:수정
 stick:찌르다/막대기
-stickto:집착하다/고수하다
+stick to:집착하다/고수하다
 flake:얇은조각
 snowfall:강설
 temperate:온화한
 land:육지/지면
-thearctic:북극지방
+the arctic:북극지방
 antarctic:남극의
 produce:생산하다/산출하다
 production:생산
 product:생산품/상품
 philippines:필리핀군도
-flagceremony:국민의례
+flag ceremony:국민의례
 ceremony:의식
-weddingceremony:결혼식
 kindergarten:유치원
 gate:문
 pair:한쌍
-apairofglasses:안경
+a pair of glasses:안경
 overhear:～을우연히듣다
 overlook:내다보다
 answer:대답하다/응답하다
@@ -3779,11 +3787,12 @@ territory:관할구역/영토
 fine:벌금/벌금을물리다
 fee:보수/사례금
 order:명령/순서/정돈/주문
-outoforder:고장난
+out of order:고장난
 defendant:피고인
 client:의뢰인
 result:결과/결과가되다
-claim:요구/청구/요구하다court법정
+claim:요구/청구/요구하다
+court:법정
 quickly:성급하게/빠르게
 wordless:말없는
 communication:대화/의사소통
@@ -3811,7 +3820,7 @@ sound:소리/음/들린다/건강한/
 view:보기/보이는것
 viewer:시청자
 purchase:사다/구매하다
-purchasingpower:구매력
+purchasing power:구매력
 monthly:매달의
 yearly:매년의
 daily:매일의
@@ -3821,12 +3830,8 @@ entertain:즐겁게하다
 entertainer:연예인
 corporation:법인/주식회사
 trouble:걱정/고민
-havetrouble:～ing～을겪다/고생하다
-havedifficulty:～ing
-havehardship:～ing
-haveahardtime:～ing
+have trouble ～ing:～을겪다/고생하다
 former:앞의/이전의
-:전자후자
 execute:실행하다
 execution:실행집행
 executive:집행력이있는/행정의
@@ -3839,16 +3844,16 @@ opportunity:기회
 observe:관찰하다/준수하다
 observation:관찰
 observance:준수
-comicstrip:만화
-beconvincedthat:～을확신하다
+comic strip:만화
+be convinced that:～을확신하다
 survive:생존하다/살아남다
 survival:생존
 survivor:생존자
 maintain:지속하다/유지하다
 maintenance:지속/유지
 degree:정도/학위
-bydegrees:점차로
-inadegree:어느정도
+by degrees:점차로
+in a degree:어느정도
 quality:질/자질
 quantity:양/수량
 format:형식/모양
@@ -3859,7 +3864,7 @@ creative:창조적인
 creature:창조물
 idea:개념/생각
 acid:신/산성의
-acidrain:산성비
+acid rain:산성비
 vegetarian:채식주의자
 vegetable:야채
 protein:단백질
@@ -3868,35 +3873,32 @@ completion:완전
 improve:개선하다/나아지다
 effect:결과/영향
 effective:효과적인
-haveaneffecton:～에영향을미치다
-complementation:상호보완
 complement:보완/보충/보어
 compliment:칭찬
 limiting:제한하는
 limit:제한하다
 limitation:제한
-shreddedwheat:잘게부순밀
+shredded wheat:잘게부순밀
 shred:조각으로찢다/조각
-workaholism:일중독
+work a holism:일중독
 rather:다소/약간
-ratherAthanBB:라기보다는A
+rather A than B:B 라기보다는 A
 else:그밖의
 relax:늦추다/휴식하다
-thatis:(tosay)즉/다시말하여
 type:형/종류
-atypeof:명사～종류의
+a type of:명사～종류의
 entertainment:오락/접대
 entertain:즐겁게하다
 tension:긴장
 attack:공격하다/공격
-heartattack:심장마비
+heart attack:심장마비
 stomach:위
-inaddition:덧붙여서
+in addition:덧붙여서
 typical:전형적인
 attention:주의/고려
 attentive:주의깊은
-attendto:～에주의하다
-attendon:시중들다
+attend to:～에주의하다
+attend on:시중들다
 attend:+目～에다니다/참석하다
 divorce:이혼/이혼하다
 marry:결혼하다
@@ -3920,15 +3922,14 @@ consider:생각하다/간주하다
 consideration:간주/생각
 considerable:상당한
 considerate:이해심있는/신중한
-civillaw:민법
+civil law:민법
 lawsuit:소송
 rug:깔개/융단
 arm:팔/무장하다
 arms:팔들/무기
 instance:보기
-forinstance:예를들면
+for instance:예를들면
 decide:결정하다/결심하다
-=makeupone:'smind
 sue:고소하다
 source:원천/근원
 resource:자원
@@ -3943,7 +3944,7 @@ rate:비율/요금/속도/평가하다
 overrate:과대평가하다
 spot:점/얼룩/장소
 shotgun:산탄총
-machinegun:기관총
+machine gun:기관총
 religious:종교적인
 religion:종교
 region:지역
@@ -3957,13 +3958,12 @@ invaluable:아주가치있는
 valueless:가치없는
 individualism:개인주의
 among:～의가운데에
-placeimportance:～을중시하다
+place importance:～을중시하다
 quality:특징/특질/질
 quantity:양
 special:특별한
 educational:교육의
 memorize:암기하다
-=learn:～byheart
 instead:～의대신에
 individually:개별적으로
 answer:대답하다/응답하다
@@ -3975,11 +3975,11 @@ refuse:거절하다
 sympathize with:～을측은히여기다
 sympathy:동정
 sympathetic:동정심있는
-takecareof:몸조심하다
-gooutforawalk:산책하려나가다
-watchone:'sstep조심하여신중히행동하다
-undertheweather:몸이불편하여
-feelathome:안락하다/편안하다
+take care of:몸조심하다
+go out for a walk:산책하려나가다
+watch one's step:조심하여신중히행동하다
+under the weather:몸이불편하여
+feel at home:안락하다/편안하다
 free:자유로운/한가한/공짜의
 freedom:자유
 especially:특히
@@ -3989,15 +3989,12 @@ pickup:마중나가다
 regrettably:유감이지만
 regret:유감/후회
 breakdown:고장나다
-breakin:침입하다/간섭하다
+break in:침입하다/간섭하다
 breakout:발발하다
-ask:～for～에게～을부탁하다
-howabout:～-하는게어때?
-=whatdoyousayto:～ing
-=whatdoyouthinkof:～ing
-=whydon:'tyou
-forrelaxation:기분전환으로
-forachange:기분전환으로
+ask ～for:～에게～을부탁하다
+how about:～-하는게어때?
+for relaxation:기분전환으로
+for a change:기분전환으로
 relax:쉬다/휴식하다
 advice:충고
 advise:충고하다
@@ -4008,11 +4005,11 @@ custom:습관
 customs:관세/세관
 suggestion:암시
 experience:경험/체험
-berelatedto:～에관련되다
-havenoidea:모르겠다
+be related to:～에관련되다
+have no idea:모르겠다
 pour:쏟다/따르다
 bewildered:당황한
-beembarrassed:당황하다
+be embarrassed:당황하다
 appoint:약속하다/지정하다
 appointment:약속/임명/지명
 sudden:돌연한/급작스런
@@ -4022,24 +4019,20 @@ accidental:우연한
 circumstance:상황/사정/환경
 comfort:위로하다/위안하다
 comfortable:기분좋은/안락한
-onearth:도대체
-intheworld:도대체
-help=avoid:피하다
-cannothelp:～-ing～하지않을수없다
+in the world:세상에
+can not help ～ing:～하지않을수없다
 suspend:일시정지하다/매달다
-heavytraffic:교통혼잡
-servesyouright:그것참고소하다
+heavy traffic:교통혼잡
 pickup:태워주다/줍다
-lookforwardto:～을기대하다
-feellike:～ing～하고싶다
+look forward to:～을기대하다
+feel like:～ing～하고싶다
 suggest:암시하다/제안하다
 suggestion:암시/제안
-beon:상영중이다
+be on:상영중이다
 locally:근처에서
 discuss:토론하다
 argue:논쟁하다
 debate:논쟁하다
-drinkinganddriving:음주운전
 opinion:의견
 disagree:일치하지않다
 possibly:아마/아마도
@@ -4083,19 +4076,17 @@ accident:우연히일어난일
 case:재판
 distress:곤경/고뇌
 passer-by:통행인
-passby:옆으로지나가다
+pass by:옆으로지나가다
 fix:수리하다/고정시키다
 pasture:목장
 meadow:목초지/초원
 fence:울타리
-oughttoRV:～해야한다
-oughttohavep:.p.～했어야만했는데
 heap:더미/많은것
-alotof:많은
-lotsof:많은
-aheapof:많은
-heapsof:많은
-aplentyof:많은
+a lot of:많은
+lots of:많은
+a heap of:많은
+heaps of:많은
+a plenty of:많은
 fencing:펜싱
 ancient:옛날의
 castle:성

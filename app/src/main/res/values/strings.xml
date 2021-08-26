@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">짬내서 영단어</string>
-    <string name="text">text1</string>
     <string name="Preferences">Test</string>
     <string name="EnglishWord">TextView</string>
     <string name="KoreanWord">TextView</string>
-    <string name="Level">난이도</string>
-    <string name="Test">시험</string>
+    <string name="Level">시험 종류</string>
+    <string name="Test">뜻 숨기기</string>
     <string name="ref">Reference</string>
-    <string name="low">초 급</string>
-    <string name="middle">중 급</string>
-    <string name="high">고 급</string>
+    <string name="low">수능 영단어</string>
+    <string name="middle">토익 영단어</string>
+    <string name="high">공무원 영단어</string>
     <string name="back">돌 아 가 기</string>
+    <string name="known_word">암기 완료</string>
 </resources>
