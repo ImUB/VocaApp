@@ -6,6 +6,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.11302083333333333" />
         <entry key="app/src/main/res/layout/activity_addword.xml" value="0.11955420466058764" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.11955420466058764" />
         <entry key="app/src/main/res/layout/activity_progress.xml" value="0.11955420466058764" />
@@ -56,27 +57,7 @@
       </value>
     </option>
   </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> parent of 269e497... DB구축 및 사이드 메뉴 수정
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> parent of 5d583b7... gradle update
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> parent of 5d583b7... gradle update
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> parent of 5d583b7... gradle update
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> parent of 5d583b7... gradle update
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

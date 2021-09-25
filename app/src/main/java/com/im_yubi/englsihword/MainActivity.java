@@ -25,38 +25,31 @@ public class
 MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
     public static int word = 0;
+    public static int randomword = 0;
     public static ArrayList<Integer> WordList = new ArrayList<>();
     public static String[][] EnglishWord = new String[5000][3];
     public static int preword = 0;
     private boolean test_btn = true;
+    View v_progress;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
-        final View v_progress = findViewById(R.id.progress);
+        v_progress = findViewById(R.id.progress);
         v_progress.setVisibility(View.GONE);
         DrawerLayout drawer = findViewById(R.id.drawer);
         drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
-        findViewById(R.id.button).setOnClickListener(myClick);
+        findViewById(R.id.b_class).setOnClickListener(myClick);
         findViewById(R.id.button2).setOnClickListener(myClick);
         findViewById(R.id.button4).setOnClickListener(myClick);
+        findViewById(R.id.button).setOnClickListener(myClick);
         findViewById(R.id.content).setOnTouchListener( this );
-
-        Button b_progress = findViewById(R.id.b_progress);
-
-        b_progress.setOnClickListener(v -> {
-            if (v.getId() == R.id.b_progress) {
-                if(v_progress.getVisibility() == View.GONE)
-                    v_progress.setVisibility(View.VISIBLE);
-                else
-                    v_progress.setVisibility(View.GONE);
-            }
-        });
+        findViewById(R.id.b_progress).setOnClickListener(myClick);
 
         readtxt();
+        randomword();
         nextword();
     }
 
@@ -64,7 +57,7 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
     Button.OnClickListener myClick = v -> {
         DrawerLayout drawer = findViewById(R.id.drawer);
 
-        if( v.getId() == R.id.button)
+        if( v.getId() == R.id.b_class)
             startActivity(new Intent(MainActivity.this, DifficultlyActivity.class));
         if( v.getId() == R.id.button2){
             if( test_btn) {
@@ -83,6 +76,24 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
             }
         }
+        if ( v.getId() == R.id.button) {
+            EnglishWord[randomword][2] = String.valueOf(101);
+            knownword();
+            Toast myToast = Toast.makeText(this.getApplicationContext(), "암기 완료", Toast.LENGTH_SHORT);
+            myToast.show();
+        }
+        if ( v.getId() == R.id.b_progress) {
+            if (v_progress.getVisibility() == View.GONE) {
+                v_progress.setVisibility(View.VISIBLE);
+                int wordsize = wordsize();
+
+                String wordsize1 = Integer.toString(wordsize);
+
+                TextView t1 = findViewById(R.id.entire);
+                t1.setText(wordsize1);
+            } else
+                v_progress.setVisibility(View.GONE);
+        }
     }; // 버튼 클릭 이벤트 구현
 
     @Override
@@ -95,8 +106,10 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
             float x = ev.getX();
 
             if ( ev.getActionMasked() == MotionEvent.ACTION_DOWN ) {
-                if ( width / 2 < x)
+                if ( width / 2 < x) {
+                    randomword();
                     nextword();
+                }
                 else
                     preword();
             }
@@ -120,6 +133,7 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
                     tmp = string.split(":");
                     if ( tmp.length != 1) {
                         System.arraycopy(tmp, 0, EnglishWord[i], 0, 2);
+                        EnglishWord[i][2] = String.valueOf(101);
                     } else {
                         Log.v("read", "에러 :" + i + "번째입니다.");
                     }
@@ -133,19 +147,14 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
         }
     } // 파일 내용 한줄씩 불러와서 EnglishWord변수에 저장
 
-    public int randomword() {
-        Random random = new Random();
-        return random.nextInt(4067);
-    }
 
     public void nextword() {
-        word = randomword();
+        word = randomword;
         preword = 1;
         TextView tv = findViewById(R.id.textView);
         TextView tv2 = findViewById(R.id.textView2);
         tv.setText(EnglishWord[word][0]);
         tv2.setText(EnglishWord[word][1]);
-        EnglishWord[word][2] = String.valueOf(1);
         WordList.add(0, word);
     }
 
@@ -162,4 +171,34 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
             myToast.show();
         preword++;
     }
+
+    public int wordsize() {
+        int wordsize = 0;
+        for (int i = 0; i < EnglishWord.length; i++){
+            if (EnglishWord[i][0] == null) {
+                wordsize = i;
+                break;
+            }
+        }
+        return wordsize;
+    }
+
+    public void knownword() {
+        int known = 0;
+        int wordsize = wordsize();
+        for (int i=0; i < wordsize; i++) {
+            if (EnglishWord[i][2].equals("101")) {
+                known++; // "101"을 파일에 직접 입력해야함..... 안그러면 소용없음
+            }
+        }
+    }
+
+    public void randomword() {
+        int n_random = wordsize();
+        Random random = new Random();
+
+        randomword = random.nextInt(n_random);
+    }
+
+
 }
