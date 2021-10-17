@@ -1,12 +1,12 @@
 package com.im_yubi.englsihword;
 
+
 import android.content.Intent;
-import android.support.v4.widget.DrawerLayout;
+import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
-import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
@@ -30,23 +30,15 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
     public static String[][] EnglishWord = new String[5000][3];
     public static int preword = 0;
     private boolean test_btn = true;
-    View v_progress;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        v_progress = findViewById(R.id.progress);
-        v_progress.setVisibility(View.GONE);
-        DrawerLayout drawer = findViewById(R.id.drawer);
-        drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
-        findViewById(R.id.b_class).setOnClickListener(myClick);
         findViewById(R.id.button2).setOnClickListener(myClick);
-        findViewById(R.id.button4).setOnClickListener(myClick);
         findViewById(R.id.button).setOnClickListener(myClick);
         findViewById(R.id.content).setOnTouchListener( this );
-        findViewById(R.id.b_progress).setOnClickListener(myClick);
 
         readtxt();
         randomword();
@@ -55,10 +47,7 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
 
     Button.OnClickListener myClick = v -> {
-        DrawerLayout drawer = findViewById(R.id.drawer);
 
-        if( v.getId() == R.id.b_class)
-            startActivity(new Intent(MainActivity.this, DifficultlyActivity.class));
         if( v.getId() == R.id.button2){
             if( test_btn) {
                 findViewById(R.id.textView2).setVisibility(View.INVISIBLE);
@@ -68,31 +57,9 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
                 test_btn = true;
             }
         }
-        if (v.getId() == R.id.button4) {
-            if(!drawer.isDrawerOpen(Gravity.START)) {
-                drawer.openDrawer(Gravity.START);
-            } else {
-                drawer.closeDrawer(Gravity.START);
-
-            }
-        }
-        if ( v.getId() == R.id.button) {
-            EnglishWord[randomword][2] = String.valueOf(101);
-            knownword();
-            Toast myToast = Toast.makeText(this.getApplicationContext(), "암기 완료", Toast.LENGTH_SHORT);
-            myToast.show();
-        }
-        if ( v.getId() == R.id.b_progress) {
-            if (v_progress.getVisibility() == View.GONE) {
-                v_progress.setVisibility(View.VISIBLE);
-                int wordsize = wordsize();
-
-                String wordsize1 = Integer.toString(wordsize);
-
-                TextView t1 = findViewById(R.id.entire);
-                t1.setText(wordsize1);
-            } else
-                v_progress.setVisibility(View.GONE);
+        if( v.getId() == R.id.button) {
+            Intent intent = new Intent(this, DifficultlyActivity.class);
+            startActivity(intent);
         }
     }; // 버튼 클릭 이벤트 구현
 
@@ -104,7 +71,6 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
             DisplayMetrics metrics = getResources().getDisplayMetrics();
             float width = metrics.widthPixels;
             float x = ev.getX();
-
             if ( ev.getActionMasked() == MotionEvent.ACTION_DOWN ) {
                 if ( width / 2 < x) {
                     randomword();
@@ -122,10 +88,21 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
     }
 
     public void readtxt() {
-        InputStream inputData = getResources().openRawResource(R.raw.word);
+        Intent intent = getIntent();
+        String data = intent.getExtras().getString("word");
+        Resources res = getResources();
+        int Id = res.getIdentifier(data, "raw", getPackageName());
+
+        InputStream inputData = getResources().openRawResource(Id);
         try {
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputData, StandardCharsets.UTF_8));
             int i = 0;
+
+            for (int j = 0; j < 5000; j++) {
+               EnglishWord[j][0] = "";
+               EnglishWord[j][1] = "";
+            }
+
             while (true) {
                 String string = bufferedReader.readLine();
                 if (string != null) {
@@ -133,7 +110,6 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
                     tmp = string.split(":");
                     if ( tmp.length != 1) {
                         System.arraycopy(tmp, 0, EnglishWord[i], 0, 2);
-                        EnglishWord[i][2] = String.valueOf(101);
                     } else {
                         Log.v("read", "에러 :" + i + "번째입니다.");
                     }
@@ -146,7 +122,6 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
             e.printStackTrace();
         }
     } // 파일 내용 한줄씩 불러와서 EnglishWord변수에 저장
-
 
     public void nextword() {
         word = randomword;
@@ -175,22 +150,12 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
     public int wordsize() {
         int wordsize = 0;
         for (int i = 0; i < EnglishWord.length; i++){
-            if (EnglishWord[i][0] == null) {
+            if (EnglishWord[i][0] == "") {
                 wordsize = i;
                 break;
             }
         }
         return wordsize;
-    }
-
-    public void knownword() {
-        int known = 0;
-        int wordsize = wordsize();
-        for (int i=0; i < wordsize; i++) {
-            if (EnglishWord[i][2].equals("101")) {
-                known++; // "101"을 파일에 직접 입력해야함..... 안그러면 소용없음
-            }
-        }
     }
 
     public void randomword() {
@@ -199,6 +164,4 @@ MainActivity extends AppCompatActivity implements View.OnTouchListener {
 
         randomword = random.nextInt(n_random);
     }
-
-
 }

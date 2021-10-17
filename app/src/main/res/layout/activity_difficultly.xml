@@ -7,6 +7,7 @@
     android:paddingTop="60dp">
 
     <Button
+        android:id="@+id/sat"
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
@@ -17,6 +18,7 @@
         android:text="@string/low" />
 
     <Button
+        android:id="@+id/toeic"
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
@@ -27,6 +29,7 @@
         android:text="@string/middle" />
 
     <Button
+        android:id="@+id/officer"
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:layout_gravity="center"

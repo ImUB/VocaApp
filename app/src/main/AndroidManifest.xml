@@ -11,13 +11,12 @@
         android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".DifficultlyActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DifficultlyActivity"/>
-        <activity android:name=".FileSplit"/>
-        <activity android:name=".FileTable"/>
     </application>
 </manifest>
