@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <EditText
+        android:id="@+id/k_word"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        android:hint="단어"
+        android:gravity="center"
+        android:inputType="text"
+        android:importantForAutofill="no"
+        tools:ignore="HardcodedText,LabelFor" />
+
+    <EditText
+        android:id="@+id/e_word"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        android:hint="뜻"
+        android:gravity="center"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        tools:ignore="HardcodedText,LabelFor" />
+
+    <Button
+        android:id="@+id/chuga"
+        android:layout_width="66dp"
+        android:layout_height="47dp"
+        android:layout_gravity="center"
+        android:text="추가"
+        android:textSize="15sp"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

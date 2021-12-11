@@ -1,0 +1,300 @@
+aptitude : 직업, 경력
+career : 새로온 사람, 신입사원
+previous job : 재능, 소질
+newcomer : 이전 직업
+job offer : 일자리 제안
+send in : ~에 지원하다
+insufficient : ~을 제출하다
+apply for : 공정한
+employ : 고용하다
+fair : 불충분한
+stop : 보호하다
+protect : 법률의, 합법적인
+try : 벌금, 연체료
+legal : 멈추다
+fine : 시도하다, 노력하다
+plus : 법률 회사
+law firm : ~을 더한, ~을 더하여
+theft : 드물게, 좀처럼 ~않는
+seldom : 절도
+in rows : 줄지어
+daily : 테이블 윗면
+business card : 명함
+upstairs : 위층의, 위층으로, 위층에
+detail : 세부 사항
+tabletop : 매일의, 날마다, 매일
+be known as : 편집하다, 수정하다
+edit : 마치 ~인 듯이
+on vacation : 손, 건네주다
+as if : ~으로 알려져 있다
+hand : 휴가 중인
+print out : 일, 직무
+case : 복사기
+fold : 접다
+copy machine : (프린터로) 출력하다
+task : 경우
+greet : ~에게 인사하다, ~를 환영하다
+online : 계획, 입안
+spell : 철자를 쓰다, 철자를 말하다
+planning : 인터넷에 접속된, 온라인으로
+paper : 서류
+timetable : 예상되는
+expected : 시간표
+redo : 서류 가방
+briefcase : 다시 하다
+remaining : 남아 있는
+rush : 임무
+mission : 받아들이다, 포용하다
+come over : 출장
+embrace : 방문하다, 오다
+business trip : 서두르다
+adventure : 배낭
+sightseeing : 모험
+film festival : 영화제
+backpack : 여가
+leisure : 관광
+gallery : 시작하다
+begin : 가져오다
+care for : ~를 돌보다, ~를 좋아하다
+fishing : 낚시
+bring : 화랑, 미술관
+based : 전시된, 진열된
+concrete : 구체적인
+array : ~에 기반을 둔
+informal : 격식에 얽매이지 않는, 편안한
+on display : 진열, 배열
+avoid : 찾아내다
+be familiar with : 방지하다
+practice : 연습, 관행
+find out : ~을 잘 알고 있다, ~에 익숙하다
+marketplace : 시장
+consumer : 실험
+experiment : 모두 합해, 총
+celebration : 축하
+sales target : 판매 대상, 판매 목표
+in total : 소비자
+curious : 잠깐 들르다
+drop by : 광고하다
+advertise : 가득 찬, 완전한
+full : 호기심 많은, 궁금해하는
+get together : 한데 모이다, 조직하다
+rise : 오르다, 일어서다
+enterprise : 가속화하다
+speed up : 영업 시간
+business hours : 기업, 사업
+trading : 거래
+private : 정식으로, 공식적으로
+cast : 오르내리는, 기복이 있는
+up-and-down : 전반적인, 총체적인
+formally : 개인적인
+overall : 던지다, 드리우다
+cashier : 복장, 의상
+fully : (은행·상점·호텔 등의) 출납원
+costume : 자유로이 ~할 수 있는, 마음대로의
+best-selling : 베스트셀러의
+free : 완전히, 충분히
+keep : 보유하다, 계속하다
+shelf : 선반
+display : 세금
+tax : 쇼핑객
+shopper : 전시하다, 진열하다, 전시, 진열
+late : 시식하다, 견본품
+sample : 수공의
+handmade : 늦은, 늦게
+shape : 최신의
+brand new : (어떤) 모양으로 만들다, 형체
+original : 고장나다
+technique : 설계하다, 디자인
+break down : 반복하다
+design : 최초의, 독창적인, 원형
+repeat : 기술
+be made up of : 구부러진, 곡선 모양의
+craft : 기술
+a number of : ~으로 구성되다
+facility : 많은
+curved : 시설
+shortage : 변경, 수정
+underground : 원자재
+modification : 부족
+incredible : 놀라운, 믿기 어려운
+raw material : 지하의, 비밀의
+complain : 즐거움, 기쁨
+counselor : 불평하다
+as soon as possible : 가능한 빨리
+call for : 상담원
+pleasure : ~을 요구하다, ~을 가지러 들르다
+relationship : 무료로
+give a call : 메시지를 남기다
+for free : 관계
+leave a message : 전화를 하다
+option : 선택권
+journey : ~을 연결하다
+pack : 짐, 짐을 꾸리다
+departure time : 여행
+passport : 출발 시간
+connect : 여권
+agent : 대리인
+sudden : 독특한
+go on vacation : 갑작스러운
+border : 국경
+unique : 휴가를 떠나다
+borrow : ~를 보살피다
+final : 빌리다
+loose : 헐거워진
+empty : 마지막의, 결정적인
+look after : 텅 빈
+product : 일반적으로
+generally : 출구
+quit : 생산품
+exit : 그만두다, 중지하다
+off-season : 비수기
+import : 수출하다, 수출
+start : 수입하다, 수입
+govern : 시작하다
+communicate : 의사소통하다
+export : 통치하다, 지배하다
+former : 예전의
+sales trend : 교환, 교환하다
+exchange : 판매 추세
+client : 고객, 의뢰인
+comforting : 위로가 되는
+mail : 다음 주
+stamp : 장소
+following week : ~에 도장을 찍다, 우표
+cargo : 화물, 짐
+venue : 우편물, 우편으로 보내다
+in storage : 짐, 작업량
+parcel : (공급·생산품의) 흐름, 이동
+load : 표를 구하다
+get a ticket : 소포
+flow : 보관 중인
+cafeteria : 물다, 한 입
+dish : 엎지르다
+spill : (회사·학교의) 구내식당
+bite : 접시, 요리
+dine : 식사를 하다
+blend : 깨끗한, 청소하다, 깨끗하게 하다
+meal : 맛있는
+clean : 섞다, 혼합하다
+taste : 식사
+delicious : ~의 맛을 보다, 시식하다
+change : ~에 의존하다
+goods : 원형, 모범, ~의 모형을 만들다
+rely on : 잔돈
+miss : 상품
+model : 놓치다, 그리워하다
+loss : 감소, 감소하다
+unbelievable : 손실
+decrease : 당황한, 당황하게 하다
+gain : 얻다
+upset : 믿을 수 없는
+funding : 두 배의, 두 배가 되다, 두 배로 하다
+spending : 창출하다, 야기하다
+contest : 자금 제공
+double : 대회, 시합
+generate : 지출
+proper : 풍부한, 많은
+abundant : 적절한
+attack : 공격하다
+powerful : 영향력 있는, 유력한
+overcome : 극복하다
+founder : 지사, 분점, 나뭇가지
+branch : 제휴, 협력
+staff : 사소한
+partnership : 창립자, 설립자
+minor : 직원
+lift : ~하는 한
+as long as : 들어 올리다
+poorly : 바꾸다
+switch : 바르게, 정확하게
+correctly : 저조하게, 형편없이
+conversation : ~으로 예정되어 있다
+be scheduled for : (행사가) 열리다
+be held : 악수하다
+shake hands : 회의실
+conference room : 대화
+express : 표현하다
+debate : 토론하다
+result in : ~을 나누어 주다
+speech : 연설
+hand out : ~을 야기하다
+award ceremony : 교육 센터
+clap : 박수, 손뼉 치다
+precise : 정확한, 정밀한
+bold : 대담한, 용감한
+learning center : 시상식
+prize : 온화한, 점잖은
+take a vacation : 등록
+gentle : 활기찬, 활발한
+registration : 휴가를 얻다
+lively : 상품, 소중하게 여기다
+point at : 계획, 계획을 세우다
+scale : 약속, 임명
+level : 규모, 저울
+appointment : (사회적) 지위, 수준
+plan : ~을 가리키다
+characteristic : 특징, 특성
+job title : 직함
+view : 견해, ~이라고 여기다
+resign : 해고하다
+fire : 사직하다, 물러나다
+cab : 서다
+stand : 버스 정류장
+bus stop : 떠나다, 출발하다
+get off : 택시
+busy street : 붐비는 거리
+crosswalk : 횡단보도
+route : 해결하다
+solve : ~에의 접근
+access to : 노선
+cite : 언급하다
+coin : 지금쯤
+by the end of the year : 아무리 빨라도
+by this time : 동전
+at the earliest : 연말까지
+password : 비밀번호
+gesture : 몸짓
+credit card number : -에 익숙하다
+be used to -ing : 불필요한
+unnecessary : 신용 카드번호
+next to : ~ 옆에
+extra : 단 하나의
+risky : 단단한, 꽉 조여 있는
+compact : 추가의
+single : 위험한
+tight : 소형의
+spot : 장소
+lose : 도전, 도전하다
+challenge : 분실하다
+soon : 다소, 얼마간
+somewhat : 곧
+cleanup : 천장
+ceiling : 대청소
+desktop : 도시의
+urban : 탁상용의
+rooftop : 지붕, 옥상
+fence : 차고
+lighten : 거주하다
+garage : 울타리
+dwell : 밝게 하다
+remodeling : 주택 개조
+humid : 화창한
+sunny : 먼지
+dirt : 쌀쌀한
+windy : 바람 부는
+chilly : 습한
+harvest : 수확하다, 수확
+pollution : 치우다, 청소하다
+temperature : 오염, 공해
+empty a trash can : 휴지통을 비우다
+clean up : 온도
+gym : 미용의, 화장의
+cosmetic : 질병
+disease : 체육관
+allergic : 알레르기가 있는, 알레르기의
+cure : 치료, 치료하다
+vision : 수술
+remedy : 충치
+cavity : 치료법, 의약
+workout : 운동
+surgery : 시력

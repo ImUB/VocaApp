@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:paddingTop="60dp">
+
+    <Button
+        android:id="@+id/sat"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/btn_style"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:text="@string/low" />
+
+    <Button
+        android:id="@+id/toeic"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/btn_style"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:text="@string/middle" />
+
+    <Button
+        android:id="@+id/officer"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/btn_style"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:text="@string/high" />
+
+    <Button
+        android:id="@+id/back_btn"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/btn_style"
+        android:textSize="30sp"
+        android:textColor="@android:color/white"
+        android:text="@string/back"/>
+</LinearLayout>
