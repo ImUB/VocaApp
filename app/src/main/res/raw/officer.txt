@@ -32,7 +32,7 @@ alcohol: ⓝ 술, 알코올
 alike:  동일하게, 같게 ⓐ 서로 같은, 비슷한
 alive: ⓐ 살아 있는
 allow: ⓥ 허락하다, 용납하다
-allow: for ~을 감안하다[참작하다]
+allow for:  ~을 감안하다[참작하다]
 along: ~에 따라
 aloud:  소리 내어
 already:  이미, 벌써
@@ -89,30 +89,30 @@ attempt: ⓝ 시도, 도전 ⓥ 시도하다
 attend: ⓥ 참석하다; ~에 다니다
 attention: ⓝ 관심, 집중, 주의, 주목
 attract: ⓥ 끌어당기다, 유인하다
-attractive: ⓐ   매력적인
+attractive: ⓐ 매력적인
 author:  ⓝ 작가, 저자, 저술가
 available: ⓐ 이용할 수 있는
 avenue:  ⓝ 거리, 길, 대로
 average: ⓐ 평균의, 보통 수준의
-avoid: ⓥ   피하다, 회피하다;  막다, 예방하다
+avoid: ⓥ 피하다, 회피하다;  막다, 예방하다
 awake: ⓐ 깨어 있는, 잠들지 않은
 award: ⓝ 상, 상패 ⓥ 수여하다, 주다
 awkward: ⓐ 어색한
 background: ⓝ (개인의) 배경
 baggage: ⓝ (여행용)짐[수하물]
-bake: ⓥ   (음식을) 굽다; 구워지다, 굳어지다
-B: balance ⓝ 균형, 잔액, 저울 ⓥ 균형을 유지하다
+bake: ⓥ (음식을) 굽다; 구워지다, 굳어지다
+balance: ⓝ 균형, 잔액, 저울 ⓥ 균형을 유지하다
 ban: ⓝ 금지(법)ⓥ 금지하다
 band: ⓝ 악단, 무리, 줄무늬 ⓥ 띠를 두르다
 bang: ⓥ 쾅하고 치다[때리다] ⓝ 쾅 (하는 소리) 
 bar: ⓝ 술집, 막대기 ⓥ (길을) 막다
 barber: ⓝ 이발사, 이발소
 barrel: ⓝ 통, 한 통의 양 ⓥ 쏜살같이 달리다 
-basin: ⓝ   양푼; 유역, (배의) 정박지
-basis: ⓝ   근거, 이유, 기준, 기초
+basin: ⓝ 양푼; 유역, (배의) 정박지
+basis: ⓝ 근거, 이유, 기준, 기초
 bathe: ⓥ 씻다, 멱을 감다 ⓝ 멱
 bay: ⓝ 만(灣), 구역 ⓥ 으르 거리다
-be: known for ~로 알려져 있다 
+be known for: ~로 알려져 있다
 beak: ⓝ (새의) 부리 
 beam: ⓝ 빛줄기, 기둥 ⓥ 활짝 웃다, 방송하다
 beard: ⓝ (턱)수염
@@ -124,7 +124,7 @@ behalf: ⓝ 이익; 원조, 자기편;  지지
 behave: ⓥ   처신하다, 움직이다
 belief: ⓝ 신념, 확신, 생각
 bell: ⓝ 종, 벨[초인종] 소리
-belong: to ~의 소유[것]이다,  ~에 속하다
+belong to: ~의 소유[것]이다,  ~에 속하다
 bend: ⓥ 굽히다, 숙이다, 틀다 ⓝ 굽이
 beneath:    아래[밑]에,  ~보다 못한 
 benefit: ⓝ 혜택, 수당, 보험금 ⓥ 이익을 얻다
@@ -134,10 +134,10 @@ billion: ⓝ 10억
 bind: ⓥ ~을 묶다, ~을 굳히다 ⓝ 묶는 것, 곤경
 bit: ⓝ 조금, 부분, 일부
 bite: ⓥ 물다, 악 향이 나타나다 ⓝ 한 입
-bitter: ⓐ   격렬한, 쓰라린;  맛이 쓴
+bitter: ⓐ 격렬한, 쓰라린;  맛이 쓴
 blade: ⓝ (칼·도구 등의) 날
 blame:  ⓥ ~을 탓하다 ⓝ 책임, 탓
-bless: ⓥ   (신의) 가호를 빌다,  축복하다
+bless: ⓥ (신의) 가호를 빌다,  축복하다
 blind: ⓐ 눈이 먼, 비논리적인 ⓥ 눈이 멀게 만들다
 block: ⓝ 구역, 장애 ⓥ 막다, 방해하다
 blood: ⓝ 피, 혈액 
@@ -161,7 +161,7 @@ brass: ⓝ 놋쇠, 금관악기
 break into: 침입하다; 억지로 열다
 breast: ⓝ 가슴, 심정 ⓥ 무릅쓰고 나아가다
 breath: ⓝ 입김, 속삭임, 무성(음)
-breathe: ⓥ   호흡하다, (입에서) 냄새를 풍기다
+breathe: ⓥ 호흡하다, (입에서) 냄새를 풍기다
 breed: ⓥ 새끼를 낳다, 야기하다ⓝ 품종, 유형
 bribe: ⓝ 뇌물 ⓥ 뇌물을 주다, 매수하다
 brick: ⓝ 벽돌
@@ -171,9 +171,9 @@ broad: ⓝ 폭넓은, 광대한
 bucket: ⓝ 양동이
 budget: ⓝ 예산 ⓥ 예산을 세우다
 built-in: ⓐ 붙박이의, 내장된
-bulk: ⓝ   (~의) 대부분,  (큰) 규모, 육중한 것
+bulk: ⓝ (~의) 대부분,  (큰) 규모, 육중한 것
 bullet: ⓝ 총알
-bully: ⓥ 괴롭히다ⓝ 괴롭히는 사람
+bully: ⓥ 괴롭히다 ⓝ 괴롭히는 사람
 bunch: ⓝ 다발, 송이, 묶음 ⓥ 단단해지다
 burial: ⓝ 매장; 장례식 
 burn: ⓥ 불에 타다, 화상을 입다 ⓝ 화상
@@ -181,14 +181,14 @@ burst: ⓥ 터지다, 불쑥 가다 ⓝ 파열
 bury: ⓥ (시신을) 묻다, 감추다
 bush: ⓝ 관목, 덤불, 숱 많은 머리
 business: ⓝ 사업, 일; 업무, 사건
-but: for 제외하고, 없이
+but for: 제외하고, 없이
 by and by:  머지 않아 곧
 by oneself:  혼자; 다른 사람 없이
 by the time:  ~할 때까지
 by the way:  그건 그렇고, 그런데
 cage: ⓝ (짐승의) 우리; 새장
 calm: ⓐ 침착한; 잔잔한 ⓥ 진정시키다
-campaign: ⓝ 캠페인ⓥ 캠페인[운동]을 벌이다 
+campaign: ⓝ 캠페인 ⓥ 캠페인[운동]을 벌이다
 cancel: ⓥ 취소하다, 소인을 찍다 
 cancer: ⓝ 암
 capability: ⓝ 능력, 역량
@@ -196,20 +196,20 @@ capital: ⓝ 수도, 자본금, 대문자 ⓐ 사형의, 대문자의
 captain: ⓝ 선장; 기장, 대위, 주장
 carbon: ⓝ 탄소
 carry: ⓥ 지니다; 운반하다
-cast: ⓥ 배역을 정하다, 드리우다ⓝ 출연자, 주물, 던지기
-castle: ⓝ 성, (체스의) 룩
+cast: ⓥ 배역을 정하다, 드리우다 ⓝ 출연자, 주물, 던지기
+castle: ⓝ 성, (체스의)룩
 casual:  ⓐ 무심한; 평상시의 ⓝ 평상복
 cause: ⓥ ~을 초래하다 ⓝ 원인, 이유
 celebrate:  ⓥ 기념하다, 축하하다
 certain: ⓐ 확실한; 특정한; 어떤
-challenge: ⓥ 도전하다ⓝ 도전, 시험대
+challenge: ⓥ 도전하다 ⓝ 도전, 시험대
 chamber: ⓝ 회의실, 공간[방]
 channel: ⓝ 채널, 경로 ⓥ ~에 수로를 내다
-charge: ⓥ 청구하다ⓝ 요금; 기소; 책임 
+charge: ⓥ 청구하다 ⓝ 요금; 기소; 책임
 charm: ⓝ 매력, 부적, 주문, 마술 ⓥ 매혹하다
 chase: ⓥ 추적하다, 재촉하다 ⓝ 추적, 사냥  
 cheat: ⓥ 속이다, 바람을 피우다 ⓝ 속임수
-check: in 투숙[탑승] 수속을 밟다
+check in: 투숙[탑승] 수속을 밟다
 cheek:  ⓝ 뺨; 무례 ⓥ 무례하게 말하다
 chemical: ⓝ 화학 물질 ⓐ 화학적인
 chief: ⓐ 주요한, 주된; 최고위자인
@@ -221,10 +221,10 @@ chore: ⓝ 허드렛일
 civil: ⓐ 시민(들)의, 민간의,  민사상의, 정중한
 claim: ⓥ 주장하다, 고소하다 ⓝ 요구, 권리; 청구물
 clause: ⓝ (문장의) 절, 조항
-claw: ⓥ 헤치며 나아가다; 할퀴다ⓝ 집게발
+claw: ⓥ 헤치며 나아가다; 할퀴다 ⓝ 집게발
 clay: ⓝ 점토, 찰흙 
 clearly:  또렷하게, 명확하게
-clever: ⓐ 리한, 기발한,  말대답 하는 
+clever: ⓐ 리한, 기발한, 말대답 하는
 client: ⓝ 의뢰인
 cliff: ⓝ 절벽 
 climb: ⓥ 오르다, 상승하다  ⓝ 등산, 상승
@@ -238,7 +238,7 @@ collect: ⓥ 수집하다, 쌓이다
 college: ⓝ 대학; 떼, 교도소
 column: ⓝ 기둥, 특정 기고란, 종대
 comb: ⓝ 빗, (수탉 머리 위의) 볏 ⓥ 빗질하다
-comfort: ⓝ 안락; 위안, 편의 시설ⓥ 위안하다 
+comfort: ⓝ 안락; 위안, 편의 시설 ⓥ 위안하다
 comfortable: ⓐ 편한; 쉽게 이길 수 있는
 commence: ⓥ 시작되다[하다]
 comment: ⓝ 논평, 언급, 지적[비판] ⓥ 논평하다
@@ -247,10 +247,10 @@ commission: ⓝ 위원회, 수수료, 장교직 ⓥ 의뢰[주문]하다
 common: ⓐ 흔한, 공통의, 천한 ⓝ 공유지, 공원
 communicate: ⓥ 의사소통을 하다;  전달하다
 community: ⓝ 주민, 공동체[사회]
-compatible: ⓐ 호환이 되는,  양립될 수 있는
+compatible: ⓐ 호환이 되는, 양립될 수 있는
 compensate: ⓥ 보상하다, 보상금을 주다
 competition: ⓝ 경쟁, 대회, 경기
-compile: ⓥ   엮다, 편집[편찬]하다, 명령어를 번역하다
+compile: ⓥ 엮다, 편집[편찬]하다, 명령어를 번역하다
 complain:  ⓥ 항의하다, 불평하다
 complaint: ⓝ 불평[항의]; 고소, 통증
 complete: ⓐ 완료된 ⓥ 완료하다
@@ -265,16 +265,16 @@ confess: ⓥ 자백하다, 고백하다
 confident: ⓐ 자신감 있는, 확신하는
 conflict: ⓝ 갈등, 물리적 충돌
 confuse: ⓥ 혼란시키다
-connect: ⓥ 연결하다; 친해지다,  ~와 관련이 있다
+connect: ⓥ 연결하다; 친해지다, ~와 관련이 있다
 conquer: ⓥ 정복하다, 극복하다
 conscience: ⓝ 양심, 가책
 consent: ⓝ 동의[허락], 합의, 인가 ⓥ 동의[허락]하다
-consider: ⓥ 고려하다;  여기다[생각하다]
+consider: ⓥ 고려하다; 여기다[생각하다]
 considerable: ⓐ 상당한, 많은
 consonant: ⓝ 자음(소리), 자음자 ⓐ ~와 일치하는
 constitution: ⓝ 헌법, 체질, 구조, 설립
-constrain: ⓥ 강요하다,  제한[제약]하다
-contact: ⓝ 연락, 접촉, 연줄ⓥ 감염이 의심되는 사람
+constrain: ⓥ 강요하다, 제한[제약]하다
+contact: ⓝ 연락, 접촉, 연줄 ⓥ 감염이 의심되는 사람
 contest: ⓝ 대회, 경쟁 ⓥ 경쟁을 벌이다
 continent: ⓝ 대륙
 continue: ⓥ 계속하다, 계속되다
@@ -297,7 +297,7 @@ cotton: ⓝ 목화, 무명
 cough: ⓥ 기침하다 ⓝ 기침
 counsel: ⓥ 조언하다; 상담하다 ⓝ 조언, 변호인
 courage: ⓝ 용기, 담력
-crack: ⓥ 갈라지다; 부서지다 ⓝ   금, 틈, 날카로운 소리
+crack: ⓥ 갈라지다; 부서지다 ⓝ 금, 틈, 날카로운 소리
 craft: ⓝ (수)공예; 기술; 술책
 crash: ⓝ 사고; 충돌 ⓥ 충돌하다, 추락하다
 credit: ⓝ 신용 거래, 칭찬; 인정 ⓥ 입금하다
@@ -330,7 +330,7 @@ debate: ⓥ 논의[논쟁]하다 ⓝ 논의[토론]
 debt: ⓝ 빚, 부채, 빚을 진 상태, 은혜를 입음
 decide: ⓥ 결정하다, 판결을 내리다
 decorate: ⓥ 장식하다, 꾸미다
-deduce: ⓥ 추론[추정]하다,  연역하다
+deduce: ⓥ 추론[추정]하다, 연역하다
 deed: ⓝ 행위, 증서
 defend: ⓥ 방어[수비]하다,  옹호[변호]하다
 definite: ⓐ 확실한, 뚜렷한 ⓝ 확실한 것[사람]
@@ -340,11 +340,11 @@ delight:  ⓝ 기쁨[즐거움] ⓥ 즐겁게 하다
 deliver: ⓥ 배달하다, (판결 등을) 내리다, 넘겨주다
 demand: ⓝ 요구, 일[부담], 수요 ⓥ 요구하다, 따지다
 democracy: ⓝ 민주주의
-denote: ⓥ 조짐을 보여주다,  나타내다, 의미하다
+denote: ⓥ 조짐을 보여주다, 나타내다, 의미하다
 deputy: ⓝ 장(長) 바로 다음 직급인) 부-[-보/대행]
 descend: ⓥ 내려오다, 경사지다
-describe: ⓥ 묘사하다,  말하다[서술하다]
-desert: ⓝ 사막ⓥ 버리다, 떠나다
+describe: ⓥ 묘사하다, 말하다[서술하다]
+desert: ⓝ 사막 ⓥ 버리다, 떠나다
 destroy: ⓥ 파괴하다; 말살하다
 detail: ⓝ 세부 사항, 정보 ⓥ 상세히 알리다[열거하다]
 determine:  ⓥ 결정하다; 알아내다
@@ -358,12 +358,12 @@ digestion: ⓝ 소화(작용)
 dimension: ⓝ 크기, 치수, 규모, 차원; 관점
 diminish: ⓥ 줄어들다, 약해지다;  약화시키다, 폄하하다
 dioxide: ⓝ 이산화물
-dip: ⓥ 살짝 담그다ⓝ 하락, 소스
+dip: ⓥ 살짝 담그다 ⓝ 하락, 소스
 disallow: ⓥ 인정하지[받아들이지] 않다, 금하다
 disappear: ⓥ 사라지다[없어지다]
 disappoint: ⓥ 실망시키다
 discomfort: ⓝ 불편[가벼운 통증] ⓥ 불편하게 하다
-discover: ⓥ 발견하다, 알아내다,  발굴하다
+discover: ⓥ 발견하다, 알아내다, 발굴하다
 discuss: ⓥ 상의[의논]하다, 논하다
 disease: ⓝ 질병, 병, 질환
 display: ⓥ 전시하다; 내보이다 ⓝ 전시, 화면
@@ -384,7 +384,7 @@ dramatic: ⓐ 극적인, 감격적인,  인상적인, 과장된
 drawer: ⓝ 서랍, 수표 발행인
 drown: ⓥ 물에 빠져 죽다;  익사시키다
 drug: ⓝ 약물, 마약 ⓥ 약물을 투여하다
-during:    ~ 동안[내내],  (~하는) 중에
+during: ~ 동안[내내], (~하는) 중에
 dust: ⓝ 먼지, 티끌 ⓥ 먼지를 털다, 뿌리다
 duty: ⓝ 의무, 직무, 임무, 세금
 earn: ⓥ (일을 하여) (돈을) 벌다 
@@ -394,7 +394,7 @@ economic: ⓐ 경제의
 edge: ⓝ 끝, 가장자리, 모서리
 edit: ⓥ 수정[가필]하다 
 educate: ⓥ 교육하다 
-effective: ⓐ 효과적인,  시행[발효]되는
+effective: ⓐ 효과적인, 시행[발효]되는
 effort: ⓝ 수고, 노력
 either A or B: A 혹은 B
 elbow: ⓝ 팔꿈치
@@ -402,14 +402,14 @@ elderly: ⓐ 연세가 드신
 elect: ⓥ 선출하다, 뽑다
 election: ⓝ 선거
 electricity: ⓝ 전기, 전력
-electronic: ⓐ 전자의,  전자 활동에 의한
+electronic: ⓐ 전자의, 전자 활동에 의한
 emerge: ⓥ 나오다[모습을 드러내다]
-E: emergency ⓝ 비상 (사태) 
+emergency: ⓝ 비상 (사태)
 emotion: ⓝ 감정; 정서 
 empire: ⓝ 제국 
 empirical: ⓐ 경험[실험]에 의거한, 실증적인
 employee: ⓝ 종업원, 직원
-encourage: ⓥ 권장[장려]하다;  고무하다
+encourage: ⓥ 권장[장려]하다; 고무하다
 enemy: ⓝ 적
 engine: ⓝ 엔진
 enter: ⓥ 들어가다[오다] 
@@ -422,13 +422,13 @@ erode: ⓥ 침식[풍화]시키다[되다]
 especial: ⓐ 특별한
 estate: ⓝ 사유지[토지], 재산
 euro: ⓝ 유로(화)
-even: if 비록 ~이지만
-eventually:  결국, 마침내
+even if: 비록 ~이지만
+eventually: 결국, 마침내
 evidence: ⓝ 증거, 흔적 
 evident: ⓐ 분명한, 눈에 띄는 
 exact: ⓐ 정확한, 정 한 
-exactly:  정확히, 꼭, 틀림없이
-except:  제외하고는  ~라는 것 외에는
+exactly: 정확히, 꼭, 틀림없이
+except: 제외하고는  ~라는 것 외에는
 exchange: ⓝ 교환, 주고받음, 맞바꿈
 excite: ⓥ 흥분시키다,  들뜨게 만들다
 exclude: ⓥ 제외하다, 배척하다
@@ -475,7 +475,7 @@ fiction: ⓝ 소설; 허구
 field: ⓝ 들판, 밭; (동물) 사육장 
 file: ⓝ 파일, 서류철
 fill: ⓥ (가득) 채우다[메우다]; 채워지다[메워지다] 
-fill: up (~으로) 가득 차다, ~을 가득 채우다
+fill up:  (~으로) 가득 차다, ~을 가득 채우다
 final: ⓐ 마지막의 
 find out:  알아내다[알게 되다]
 fine[fain]:  ⓝ 벌금  ⓥ 질 좋은, 건강한
@@ -507,18 +507,18 @@ forest: ⓝ 숲, 삼림
 forgive: ⓥ 용서하다 
 formation: ⓝ 형성 (과정); 구성;  대형
 forthcoming: ⓐ 다가오는, 곧 있을 
-forward:(s)  (위치가) 앞으로
+forward(s): (위치가) 앞으로
 found: ⓥ 설립하다, 세우다
 foundation: ⓝ 토대[기초] 
 frame: ⓝ 구도; 틀[액자]; 골격 ⓥ 틀에 넣다
 framework: ⓝ (건물 등의) 뼈대[골조] 
-frankly:  솔직히, 솔직히 말하면
+frankly: 솔직히, 솔직히 말하면
 freeze: ⓥ 얼다; 얼리다 
 friendship: ⓝ 교우 관계 
 frightened: ⓐ 겁먹은, 무서워하는
 fry: ⓥ 굽다[부치다], 튀기다
 full: ⓐ (~이) 가득한,  빈 공간이 없는
-fully:  완전히, 충분히
+fully: 완전히, 충분히
 function: ⓝ 기능 ⓥ 기능하다[작용하다]
 funeral: ⓝ 장례식
 fur: ⓝ (일부 동물의) 털
@@ -542,8 +542,8 @@ get out of: (차 따위)에서 내리다,  ~에서 도망치다
 get up: 일어서다; ~을 조직하다
 giant: ⓝ 거인
 gift: ⓝ 선물; 기증품
-give away:  ~을 선물로 주다
-give up:  포기하다, 단념하다
+give away: ~을 선물로 주다
+give up: 포기하다, 단념하다
 globe: ⓝ 지구본, 지구의 
 glory: ⓝ 광, 예 
 goal: ⓝ 골문, 목표
@@ -553,7 +553,7 @@ govern: ⓥ 통치하다[다스리다]
 government: ⓝ 정부, 정권
 grace: ⓝ 우아함 
 grade: ⓝ 품질, 등급, 성적,   학년, 정도
-gradually:  점차, 서서히
+gradually: 점차, 서서히
 graduate: ⓝ 대학 졸업자; 대학원생 ⓥ 졸업하다
 grain: ⓝ 곡물; (곡식의) 낟알
 grammar: ⓝ 문법
@@ -576,12 +576,12 @@ handle: ⓥ 다루다; 처리하다ⓝ 손잡이
 hang: ⓥ 걸다, 매달다; 걸리다, 매달리다 
 happen: ⓥ 발생하다, 벌어지다
 harbor: ⓝ 항구, 항만 ⓥ 숨겨 주다; 품다
-hardly:  거의 ~이 아니다[없다]
+hardly: 거의 ~이 아니다[없다]
 harm: ⓝ 피해, 손해 
 harvest: ⓝ 수확(물)ⓥ 수확하다
 hatch: ⓥ (알을) 깨다, 부화하다 ⓝ 창구
 headache:  ⓝ 두통, 머리가 아픔
-headquarter: ⓥ ~에 본부를 두다,  본부를 설치하다
+headquarter: ⓥ ~에 본부를 두다, 본부를 설치하다
 headquarters: ⓝ 본부, 본사 (직원들) 
 heal: ⓥ 치유하다[되다], 낫다
 healthy: ⓐ 건강한 
@@ -608,7 +608,7 @@ horn: ⓝ 뿔
 horror: ⓝ 공포(감), 경악
 host: ⓝ 주인
 household: ⓝ 가정 
-however:  하지만, 그렇지만
+however: 하지만, 그렇지만
 huge: ⓐ 막대한[엄청난], 거대한 
 hunt: ⓥ 사냥하다 
 hut: ⓝ 오두막[막사]
@@ -620,7 +620,7 @@ ill: ⓐ 아픈, 병든 ⓝ 병, 해, 문제
 illustrate: ⓥ 예증[예시]하다;  삽화를 넣다
 imagine: ⓥ 상상하다,  (마음속으로) 그리다 
 imitate: ⓥ 모방하다, 본뜨다
-I: immediately  즉시, 즉각
+immediately: 즉시, 즉각
 impolite: ⓐ 무례한, 정중하지 않은
 import: ⓝ 수입품, 수입 ⓥ 수입하다
 importance: ⓝ 중요성
@@ -635,8 +635,8 @@ in fact: 사실, 사실상
 in favor of: 위하여, ~을 선호하여
 in general: 일반적으로, 대체로
 in time: 제시간에; 조만간
-in turn:  차례로; 다음에는; 교대로
-in writing:  서면으로
+in turn: 차례로; 다음에는; 교대로
+in writing: 서면으로
 inactivate: ⓥ 비활성화하다
 include: ⓥ 포함하다
 income: ⓝ 소득, 수입
@@ -662,8 +662,8 @@ insert: ⓥ 끼우다[넣다/삽입하다]
 insist: ⓥ 주장하다, 고집하다
 inspire: ⓥ 고무하다; 고취시키다
 instant: ⓐ 즉각적인, 인스턴트의 ⓝ 순간
-instead:  대신에, 대신
-instead of:  ~ 대신에
+instead: 대신에, 대신
+instead of: ~ 대신에
 instruction: ⓝ 설명, 지시 사항, 지도
 insult: ⓝ 모욕(적인 말, 행동) ⓥ 모욕하다
 insure: ⓥ 보험에 들다[가입하다] 
@@ -699,7 +699,7 @@ journey: ⓝ 여행[이동] ⓥ 여행[이동]하다
 judgment: ⓝ 판단, 심판, 심사
 junior: ⓝ 하급자ⓐ 하급의
 jury: ⓝ 배심원단
-kind of:  어떤; 같은; 종류; 이런
+kind of: 어떤; 같은; 종류; 이런
 kingdom: ⓝ 왕국 
 kneel: ⓥ 무릎을 꿇다
 knock: ⓥ 두드리다, 노크하다 
@@ -723,7 +723,7 @@ leadership: ⓝ 대표직, 지도력
 league: ⓝ 리그, 대회; 연맹
 leak: ⓥ 새게 하다; 누설하다
 lean: ⓥ 기울이다, 기대다 ⓐ 호리호리한 
-least:  가장 적은; 최소(의) 가장 적게, 최소로
+least: 가장 적은; 최소(의) 가장 적게, 최소로
 leather: ⓝ 가죽
 leave: ⓥ 떠나다[출발하다] 
 lecture: ⓝ 강의, 강연
@@ -776,7 +776,7 @@ mayor: ⓝ 시장, 행정장관
 meal: ⓝ 식사, 끼니
 mean: ⓥ 의미하다 ⓐ 인색한, 심술궂은
 meantime: ⓝ 그동안, 중간 시간  그동안[사이]에, 한편
-meanwhile:  그동안에, 한편
+meanwhile: 그동안에, 한편
 measure: ⓥ 측정하다 ⓝ 조치; 표시, 척도
 mechanic: ⓝ 정비공; 기계학
 mechanism: ⓝ 기계 장치, 방법, 구조
@@ -791,14 +791,13 @@ mercy: ⓝ 자비, 인정, 연민
 mess: ⓝ 엉망인 상태 ⓥ 엉망으로 만들다
 metal: ⓝ 금속
 method: ⓝ 방법, 체계성
-might:    ~일지 모른다 
-:(may의 과거형)
+might: ~일지 모른다
 migrate: ⓥ 이주[이동]하다; 옮기다
 mild: ⓐ 가벼운[순한], 온화한
 military: ⓐ 군사의, 무력의 ⓝ 군인들, 군대
 million: ⓝ 100만, 다수 ⓐ 100만의, 다수의
 miner: ⓝ 광부
-mineral: ⓝ   광물; 무기물, 미네랄
+mineral: ⓝ 광물; 무기물, 미네랄
 minimal: ⓐ 아주 적은, 최소의
 minimum: ⓐ 최저의, 최소한의 ⓝ 최소한도, 최저
 minor: ⓐ 작은, 가벼운 ⓝ 미성년자, 부전공
@@ -810,8 +809,8 @@ moisture: ⓝ 수분
 moment: ⓝ 잠깐, 잠시; 순간
 monitor: ⓝ 화면, 감시 장치, 반장 ⓥ 감시[조정]하다
 monthly:  매월, 다달이 ⓐ 매월의
-mood: ⓝ   기분, 분위기
-moreover:  게다가, 더욱이
+mood: ⓝ 기분, 분위기
+moreover: 게다가, 더욱이
 mosquito: ⓝ 모기
 motion: ⓝ 운동, 움직임, 발의 ⓥ 동작을 해 보이다
 motivate: ⓥ 동기를 부여하다
@@ -838,26 +837,26 @@ negative: ⓐ 부정적인, 마이너스의 ⓥ 거부하다, 부인하다
 neither: ⓐ ~도 아니다
 neither A nor B:  A도 B도 아닌
 nephew: ⓝ 조카
-nerve: ⓝ  신경, 긴장, 용기 ⓥ 용기를 내어 ~하다 
+nerve: ⓝ 신경, 긴장, 용기 ⓥ 용기를 내어 ~하다
 nervous: ⓐ   불안해 하는,  신경이 과민한, 신경의
-nest: ⓝ  둥지, 가정  ⓥ 둥지를 틀다, 포개다
-net: ⓝ   망사, 그물, 골대 ⓥ 순이익을 내다, 획득하다
-neutral: ⓐ   중립적인, 중립의 ⓝ 중립
-nevertheless:    그렇기는 하지만,  그럼에도 불구하고
-newly:  최근에, 새로
+nest: ⓝ 둥지, 가정  ⓥ 둥지를 틀다, 포개다
+net: ⓝ 망사, 그물, 골대 ⓥ 순이익을 내다, 획득하다
+neutral: ⓐ 중립적인, 중립의 ⓝ 중립
+nevertheless: 그렇기는 하지만, 그럼에도 불구하고
+newly: 최근에, 새로
 niece: ⓝ 조카딸
 noble: ⓐ 고결한, 웅장한, 귀족의 ⓝ 상류층, 귀족
-nonetheless:    그렇기는 하지만,  그럼에도 불구하고
+nonetheless: 그렇기는 하지만, 그럼에도 불구하고
 nonsense: ⓝ 터무니없는 말
 noon: ⓝ 정오, 한낮
-norm: ⓝ   표준, 일반적인 것,  규범
+norm: ⓝ 표준, 일반적인 것, 규범
 northern: ⓐ 북쪽에 위치한, 북부의
-not: at all 전혀 ~이 아닌
-nothing: but 오직; 단지 ~일 뿐인
-notice: ⓝ   통지, 주목, 경고, 관찰 ⓥ 주의하다, 인지하다
+not at all: 전혀 ~이 아닌
+nothing but: 오직; 단지 ~일 뿐인
+notice: ⓝ 통지, 주목, 경고, 관찰 ⓥ 주의하다, 인지하다
 notify: ⓥ 알리다[통고/통지하다]
-notwithstanding:  ~에도 불구하고,  그렇기는 해도
-novel: ⓐ   새로운; 참신한 ⓝ 소설
+notwithstanding: ~에도 불구하고,  그렇기는 해도
+novel: ⓐ 새로운; 참신한 ⓝ 소설
 nuclear: ⓐ 원자력의, 핵의
 nuisance: ⓝ 성가신 사람, 골칫거리
 numerical: ⓐ 수의, 숫자로 나타낸
@@ -865,7 +864,7 @@ numerous: ⓐ 다수의, 수많은
 oar: ⓝ 노
 obey: ⓥ 준수하다, 따르다, 순종하다
 object: ⓝ 물건, 대상, 목적 ⓥ 반대하다
-O: objective ⓐ 객관적인; 실재하는 ⓝ 목적
+objective: ⓐ 객관적인; 실재하는 ⓝ 목적
 occupy: ⓥ 차지하다, 사용하다
 occur: ⓥ 발생하다, 일어나다
 offer: ⓥ 제안하다, 내놓다 ⓝ 제의, 제안, 할인
@@ -890,7 +889,7 @@ ordinary: ⓐ 보통의, 평범한 ⓝ 보통 일(것, 사람)
 organization: ⓝ 조직, 기관; 구성, 구조
 orient: ⓥ 지향하게 하다; 맞추다
 originate: ⓝ 기원하다; 창작하다; 비롯되다
-otherwise:    그렇지 않으면,  그 외에도
+otherwise: 그렇지 않으면,  그 외에도
 ought to: ~해야 하다
 ounce: ⓝ 온스(무게 단위)
 outcome: ⓝ 결과, 성과
@@ -911,7 +910,7 @@ paragraph: ⓝ 단락, 절
 parameter: ⓝ 한도
 parcel: ⓝ 소포, 꾸러미, 구획 ⓥ 나누다, 분배하다
 pardon: ⓝ 용서, 허용, 사면 ⓥ 용서하다, 인정하다
-part: ⓝ 일부, 부분, 지역ⓥ 헤어지다, 갈라놓다
+part: ⓝ 일부, 부분, 지역 ⓥ 헤어지다, 갈라놓다
 participate: ⓥ 참가하다
 passage: ⓝ 통로, 복도, 관, 통행
 passenger: ⓝ 승객, 짐스러운 사람
@@ -919,17 +918,17 @@ paste: ⓝ 반죽, 풀 ⓥ 풀로 붙이다, 만들다
 patient: ⓝ (병원의) 환자 ⓐ 인내심 있는
 pattern: ⓝ 양식, 무늬 ⓥ 본떠서 만들다
 pay attention to: ~에 주의를 기울이다
-pay: for 대가를 지불하다; 돈을 내다
+pay for: 대가를 지불하다; 돈을 내다
 pearl: ⓐ 진주의, 진주 모양의 ⓥ 진주로 장식하다.
 peculiar: ⓐ 이상한, 특유한
 penny: ⓝ 페니( 국의 화폐 단위),  금전, 푼돈
-per:  ~에 의하여, ~마다
+per: ~에 의하여, ~마다
 perceive: ⓥ 감지하다, 이해하다
 perform: ⓥ 행하다, 공연하다
 peril: ⓝ 위험, 유해함
 period: ⓝ 기간, 시기; 시대
 permission: ⓝ 허락, 허가, 승인
-personally:    직접, 개인적으로;  사적으로
+personally: 직접, 개인적으로;  사적으로
 physical: ⓐ 신체의; 물질[물리]적인
 piece: ⓝ 한 부분[조각], 한 개
 pigeon: ⓝ 비둘기
@@ -944,7 +943,7 @@ platform: ⓝ 승강장, 연단 ⓥ 올려 놓다, 연설하다
 pleasant: ⓐ 쾌적한, 즐거운
 pleasure: ⓝ 기쁨, 재미로 하는 활동
 plenty:  풍부한 양 많이
-plenty: of 많은; 충분한
+plenty of: 많은; 충분한
 plough: ⓝ 쟁기 ⓥ 쟁기로 갈다
 plural: ⓝ 복수형 ⓐ 복수형의, 복수의
 poem: ⓝ 시, 시적 문장
@@ -969,7 +968,7 @@ praise: ⓝ 칭찬, 찬양; 찬송 ⓥ 칭찬하다; 찬송하다
 pray: ⓥ 기도하다, 간청하다
 preach: ⓥ 설교하다, 전도하다ⓝ 설교
 precious: ⓐ 귀중한, 존경할 만한  대단히, 지독하게
-premises: [prémis ] ⓝ 부지[지역], 구내
+premises: ⓝ 부지[지역], 구내
 preserve: ⓥ 보존하다; 보호하다 ⓝ 보존 물건; 금지 구역
 press: ⓥ 내리누르다, 강요하다 ⓝ 압박, 보도 기관
 pretend: ⓥ ~인 척하다, 가장하다
@@ -985,7 +984,7 @@ prior: ⓐ 사전의, 우선하는
 prison: ⓝ 교도소, 수감 제도
 private: ⓐ 사적인; 개인 소유의
 prize: ⓝ 상, 소중한 것 ⓥ 소중하게 여기다
-probably:  아마(도), 대개는
+probably: 아마(도), 대개는
 proceed: ⓥ 진행하다[되다];  계속하다
 process: ⓝ 과정[절차] ⓥ 처리하다, 가공하다
 produce: ⓥ 생산하다 ⓝ 생산품, 농작물
@@ -1005,7 +1004,7 @@ prove: ⓥ 입증[증명]하다
 proverb: ⓝ 속담, 격언
 provide: ⓥ 제공[공급]하다, 주다
 provision: ⓝ 공급, 제공; 대비
-public: ⓐ 대중의; 공공의 ⓝ 대중 (the ~ )
+public: ⓐ 대중의; 공공의 ⓝ 대중
 publication: ⓝ 출판, 출판물, 발표
 publish: ⓥ 출판[발행]하다
 pump: ⓝ 펌프 ⓥ 퍼 올리다[퍼내다] 
@@ -1025,18 +1024,18 @@ quart: ⓝ 쿼트(액량의 단위)
 quarter:  ⓝ 4분의 1; 사분기 ⓥ 4등분하다
 question: ⓝ 질문, 문제 ⓥ 질문하다; 의심하다
 quiet: ⓐ 조용한 ⓝ 고요
-quite:  꽤, 상당히
+quite: 꽤, 상당히
 quote: ⓥ 인용하다, 예로 들다 
 rail: ⓝ 난간, (철도의) 레일 ⓥ 격분하다
 rainfall: ⓝ 강우(량)
 raise: ⓥ 일어서다, 세우다 ⓝ 올리기, 돋운 곳, 인상
 rake: ⓝ 갈퀴, 난봉꾼 ⓥ 갈퀴질을 하다, 훑다
 random: ⓐ 무작위의 
-randomly: [r nd mli]  무작위로[임의로]
+randomly: 무작위로[임의로]
 range: ⓝ 범위; 산맥 ⓥ 배열하다; 포함하다
-R: rapidly  빠르게, 급속히
+rapidly: 빠르게, 급속히
 rare: ⓐ 드문; 살짝 익힌
-rather:  오히려; 반대로
+rather: 오히려; 반대로
 raw: ⓐ 날것의, 쓰린, 쌀쌀한 ⓝ 살갗이 벗겨진 곳
 ray: ⓝ 광선, 한 줄기
 razor: ⓝ 면도기, 면도칼
@@ -1056,7 +1055,7 @@ record: ⓝ 기록; 음반 ⓥ 기록하다; 녹음하다
 recover: ⓥ 회복되다; 되찾다
 recreational: ⓐ 휴양의, 오락의
 reduce: ⓥ 줄이다[축소하다]
-refer: to  ⓥ 참고하다, 말하다,   제안하다 
+refer to:  ⓥ 참고하다, 말하다,   제안하다
 reflect: ⓥ 반 하다; 반사하다
 reform: ⓥ 개혁하다, 개심하다 ⓝ 개혁, 개선
 refresh: ⓥ 생기를 되찾게 하다, 새롭게 하다
@@ -1070,7 +1069,7 @@ relative: ⓐ 상대적인ⓝ 친척
 relief: ⓝ 제거, 안도, 구제 ⓐ 걱정을 완화하는, 임시의 
 religious: ⓐ 종교의, 신앙심이 깊은
 rely: ⓥ 의지하다; 신뢰하다
-rely: on 의존하다; 의지하다; 기대다
+rely on: 의존하다; 의지하다; 기대다
 remain: ⓥ 남아 있다; 여전히 ~이다
 remark: ⓝ 발언, 주목 ⓥ 언급하다 
 remember: ⓥ 기억하다; 유념하다
@@ -1145,13 +1144,13 @@ scent: ⓝ 향기, 냄새, 자취, 기운 ⓥ 냄새 맡다, 감지하다
 schoolwork: ⓝ 학업, 학교 공부[과제]
 scientific: ⓐ 과학의, 과학적인,  체계적인 
 scold: ⓥ 야단치다[꾸짖다]
-S: self ⓝ 모습; 자아
+self:  ⓝ 모습; 자아
 selfish: ⓐ 이기적인, 자기 본위의
 semester: ⓝ 한 학기, 반 학년
 senior: ⓐ 고위의, 성인을 위한 ⓝ 연장자, 상급자, 성인
 sensitive: ⓐ 세심한; 민감한, 예민한
 series: ⓝ 연속, 연쇄, 시리즈,  직렬 연결
-seriously:  심(각)하게; 진지하게
+seriously: 심(각)하게; 진지하게
 settle: ⓥ 해결하다[끝내다];  정착하다
 several: ⓐ (몇)몇의, 여러 가지의
 sew: ⓥ 바느질하다, 꿰매다
@@ -1180,7 +1179,7 @@ silent: ⓐ 조용한, 말수가 적은,  무언[성]의, 묵음인
 silly: ⓐ 어리석은, 우스꽝스러운, 유치한
 silver: ⓝ 은, 은화, 은색 ⓐ 은색의
 similar: ⓐ 비슷한, 유사한, 닮은
-similar: to ~와 비슷한
+similar to: ~와 비슷한
 simply:  그냥, 단순히, 소박하게
 since:  ~부터[이후]  ~한 이후로, ~ 때문에
 sincere: ⓐ 진실된, 진정한,  진심 어린
@@ -1208,7 +1207,7 @@ solution: ⓝ 해법, 해결책; 용해
 solve: ⓥ 해결[타결]하다, 풀다
 somewhere:  어딘가에[에서/에로]
 sore: ⓐ 쓰린; 화가 난 ⓝ 상처
-sort: of 다소; 일종의
+sort of: 다소; 일종의
 sour: ⓐ 시큼한, 시큰둥한 ⓥ 안 좋아지다, 상하다
 source: ⓝ 원천, 자료 ⓥ 공급자를 찾다
 southern: ⓐ 남쪽에 위치한; 남향의; 남반구의
@@ -1273,7 +1272,7 @@ suck: ⓥ 빨다, 빨아들이다 ⓝ 빨기, 빨아들이기
 suddenly:  갑자기, 급작스럽게
 suffer: ⓥ 시달리다; 고통받다
 sufficient: ⓐ 충분한
-sufficiently:  충분히
+sufficiently: 충분히
 suggest: ⓥ 제안[제시]하다; 암시하다
 suit: ⓝ 정장, 고소 ⓥ 적합하다
 sum: ⓝ 액수, 합(계), 전부, 산수
@@ -1297,9 +1296,9 @@ symbol: ⓝ 상징(물); 부호[기호]
 system: ⓝ 제도, 체계; 조직, 방식
 tail: ⓝ 꼬리, (동전의) 뒷면 ⓥ 미행하다
 tailor: ⓝ 재단사 ⓥ 맞추다
-take: care 조심하다
-take: for ~을 ~이라고 생각하다
-take: good  care of 잘 돌보다; 관리하다;  해결하다
+take care: 조심하다
+take for: ~을 ~이라고 생각하다
+take good  care of: 잘 돌보다; 관리하다;  해결하다
 talent: ⓝ 재주, 재능; 연기자
 target: ⓝ 목표, 대상, 표적, 과녁 ⓥ 목표로 삼다
 task: ⓝ 일, 과업, 과제
@@ -1309,19 +1308,19 @@ tear: ⓝ 눈물 ⓥ 찢다, 뜯다
 tease: ⓥ 놀리다, 괴롭히다ⓝ 장난, 놀림
 target: ⓝ 목표, 대상, 표적, 과녁 ⓥ 목표로 삼다
 technique: ⓝ 기법, 기술
-T: technology ⓝ 기술; 기계, 장비
+technology:  ⓝ 기술; 기계, 장비
 tell: ⓥ 알리다, 말하다,  판단하다, 구별하다
 temperature: ⓝ 온도, 기온; 체온
 temple: ⓝ 신전, 사원; 관자놀이
 tend: ⓥ 경향이 있다, 하기 쉽다; 돌보다
-tend: to 경향이 있다;  경향을 가지고 있다
+tend to: 경향이 있다;  경향을 가지고 있다
 tender: ⓐ 상냥한, (음식이) 연한 ⓝ 입찰
 term: ⓝ 용어, 말; 학기, 기간 ⓥ 일컫다
 terminate: ⓥ 끝나다, 종료되다,  종점에 닿다
 terrible: ⓐ 끔찍한, 심한,  기분이 안 좋은
 thanks to: 덕분에; 때문에; 힘입어; 통해서
 the number of: ~의 수
-thereby:    그렇게 함으로써,  그것 때문에
+thereby: 그렇게 함으로써,  그것 때문에
 therefore: 그러므로, 그러니
 these days: 요즘; 오늘날; 최근
 thesis: ⓝ 학위 논문, 논지
@@ -1331,23 +1330,23 @@ thirst: ⓝ 갈증, (마실 물의) 부족, 갈망
 thorn: ⓝ (식물의) 가시, 가시나무
 thorough: ⓐ 빈틈없는, 철저한
 thorougly: 대단히, 완전히
-though:    (비록) ~이긴 하지만
+though: (비록) ~이긴 하지만
 thoughtful: ⓐ 생각이 깊은; 사려 깊은
 thread: ⓝ 실, 가닥, 줄기ⓥ 꿰다, 빠져나가다
 threat: ⓝ 협박, 위협, 위험
 threaten: ⓥ 협박[위협]하다,  조짐을 보이다
 thrill: ⓥ 열광시키다 ⓝ 황홀감, 흥분
 throat: ⓝ 목구멍, 목
-through:    ~을 통해, ~사이로, 지나[거쳐]
-throughout:  도처에, ~동안 내내
+through: ~을 통해, ~사이로, 지나[거쳐]
+throughout: 도처에, ~동안 내내
 throw: ⓥ 내던지다 ⓝ 던지기, 투구
 thumb: ⓥ 급히 읽어 넘기다 ⓝ 엄지손가락
 thunder: ⓝ 천둥, 우레 ⓥ 천둥이 치다
-thus:    이렇게 하여;  이와 같이
+thus: 이렇게 하여;  이와 같이
 tide: ⓝ 조수; 흐름; 물결 ⓥ 어닥치다; 흐르다
 tidy: ⓐ 깔끔한, 잘 정돈된 ⓥ 정돈하다
 tight: ⓐ 단단한, 꽉 조이는 단단히, 꽉
-till:   ~까지
+till: ~까지
 tin: ⓝ 주석, 통조림, (깡)통
 tip: ⓝ 조언, 봉사료, 끝 부분  ⓥ 기울어지다, 따르다
 title: ⓝ 제목, 표제, 서적, 직위 ⓥ 제목을 붙이다
@@ -1369,13 +1368,13 @@ treat: ⓥ 다루다, 처리하다ⓝ 대접, 선물
 trend: ⓝ 동향, 추세
 tribe: ⓝ 부족, 종족
 trick: ⓝ 속임수, 마술, 요령 ⓥ 속이다
-tropical: [tr pik l] ⓐ 열대 지방의, 열대의
+tropical: ⓐ 열대 지방의, 열대의
 trouble: ⓝ 문제, 곤경, 통증 ⓥ 괴롭히다, 귀찮게 하다
 trousers: ⓝ 바지
 trunk: ⓝ 나무의 몸통,  (코끼리의) 코, 큰 가방
 trust: ⓝ 신뢰, 신임, 신탁 ⓥ 신뢰하다, 믿다
 truth: ⓝ 사실(성), 진리, 진실
-try: to 노력하다; 시도하다
+try to: 노력하다; 시도하다
 turn off: 끄다; 쫓아버리다; 잠그다
 turn on: 켜지다; 등 돌리다; 들다
 twist: ⓥ 휘다, 돌리다, 왜곡하다 ⓝ 돌리기, 전환
@@ -1384,8 +1383,8 @@ ultimately:  궁극적으로, 결국
 uncontrolled: ⓐ 억제[제어]되지 않는
 underlie: ⓥ 기저를 이루다 [기저가 되다]
 unexpected: ⓐ 예기치 않은, 예상 밖의
-unfairly:  불공평하게, 편파적으로
-unfortunately:    불행하게도,  유감스럽게도
+unfairly: 불공평하게, 편파적으로
+unfortunately: 불행하게도,  유감스럽게도
 uniform: ⓝ 제복, 군복, 교복 ⓐ 획일적인, 균일한
 unique: ⓐ 유일무이한, 독특한
 unit: ⓝ 구성 단위, 부대, 부서, 단원
@@ -1393,7 +1392,7 @@ unite: ⓥ 연합하다, 통합시키다
 universe: ⓝ 우주; 은하계
 university: ⓝ 대학
 unknown: ⓐ 알려지지 않은 ⓝ 미지의 것(들)
-unless:    ~하지 않는 한,  ~한 경우 외에는
+unless: ~하지 않는 한,  ~한 경우 외에는
 unlikely: ⓐ ~할 것 같지 않은,  가망 없는
 unnecessary: ⓐ 불필요한, 쓸데없는
 unpopular: ⓐ 인기 없는
@@ -1404,7 +1403,7 @@ up to: 최고 ~; ~까지;  ~에 이르기까지
 upright: ⓝ 수직 기둥, 직립부 ⓐ 똑바른; 수직으로 세워 둔
 upset: ⓥ 속상하게 만들다 ⓐ 속상한, 마음이 상한
 upside: ⓝ 위쪽, 긍정적인 면 
-upwards:  위쪽으로, 상승하여,  ~ 이상으로
+upwards: 위쪽으로, 상승하여,  ~ 이상으로
 urge: ⓥ 촉구하다, 충고하다
 usual: ⓐ 흔히 하는[있는], 보통의
 useful: ⓐ 유용한, 쓸모 있는
@@ -1417,15 +1416,15 @@ vary: ⓝ 달라지다, 변화시키다
 various: ⓐ 각양각색의, 다양한
 vehicle: ⓝ 차량, 탈것, 수단[매개체]
 veil: ⓝ 베일, 면사포, 장막ⓥ 가리다
-vendor:  ⓝ 행상인[노점상],  판매 회사, 매도인
+vendor: ⓝ 행상인[노점상],  판매 회사, 매도인
 verb: ⓝ 동사
 verse: ⓝ 운문, (시의) 연,  (노래의) 절
 version: ⓝ -판[형태], 설명
-versus:  ~대 ~(약어 vs.)
+versus: ~대 ~(약어 vs.)
 vertical: ⓐ 수직의, 세로의, 종적인 ⓝ 수직
 vibration: ⓝ 떨림[흔들림], 진동
 victory: ⓝ 승리, 전승
-video: ⓝ 비디오, 녹화 ⓥ 녹화하다, 촬 하다
+video: ⓝ 비디오, 녹화 ⓥ 녹화하다, 촬영하다
 view: ⓝ 견해, 시야, 경관 ⓥ ~라 여기다, 보다
 village: ⓝ 마을, 부락, 촌락
 violet: ⓝ 제비꽃, 보라색, 바이올렛
@@ -1449,7 +1448,7 @@ waste: ⓥ 낭비하다, 헛되이 쓰다 ⓝ 낭비, 쓰레기
 wax: ⓝ 랍, 왁스, 귀지ⓥ 왁스로 광을 내다
 weak: ⓐ 약한, 힘이 없는
 weapon: ⓝ 무기
-W: weave ⓥ 짜다, 누비며 가다 ⓝ 짜는 법; (직물의) 무늬
+weave:  ⓥ 짜다, 누비며 가다 ⓝ 짜는 법; (직물의) 무늬
 wedding: ⓝ 결혼(식), 혼례(식)
 weep: ⓥ 울다, 진물이 흐르다 ⓝ 울기
 weigh: ⓥ 무게를 달다, 따져 보다, 향을 주다
@@ -1484,14 +1483,14 @@ wrap: ⓥ 싸다, 포장하다, 두르다 ⓝ 포장지, 랩
 wrist: ⓝ 손목, 팔목
 yard: ⓝ 마당, 뜰; 운동장
 yawn: ⓥ 하품하다 ⓝ 하품, 따분한 일
-yearly: ⓐ 1년에 한 번씩 있는,  해마다 있는, 연간의
+yearly: ⓐ 1년에 한 번씩 있는, 해마다 있는, 연간의
 yeast: ⓝ 이스트, 효모균
 yell: ⓥ 소리 지르다, 외치다 ⓝ 고함, 외침, 함성
 yet: 아직, 앞으로 ~동안  그렇지만, 그런데도
 yield: ⓥ 산출하다, 항복하다 ⓝ 산출량, 총수익
 young: ⓐ 젊은
 youth: ⓝ 어린 시절, 젊음, 청년
-zap: ⓥ 제압하다, 재빠르게 하다,  휙 움직이다
+zap: ⓥ 제압하다, 재빠르게 하다, 휙 움직이다
 zealous: ⓐ 열성적인
 zip:  ⓝ 지퍼; 활기 ⓥ 지퍼를 잠그다
 zoology: ⓝ 동물학
